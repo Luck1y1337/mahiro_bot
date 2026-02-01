@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="420906f6-6e27-46e8-add0-3b338af7ed6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/message_counters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/moods.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/statistics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/trust_levels.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/user_7228311090.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/user_7955905703.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/users_tracker.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mahiro_bot.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mahiro_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mahiro_bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai/prompts.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai/prompts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/admin_panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/admin_panel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="38smKczBpM8zr14pTenLOTruin6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Luck1y/Desktop/mahiro_bot&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420906f6-6e27-46e8-add0-3b338af7ed6c" name="Changes" comment="" />
+      <created>1769596590030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769596590030</updated>
+    </task>
+    <servers />
+  </component>
+</project>

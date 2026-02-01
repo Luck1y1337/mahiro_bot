@@ -1,0 +1,29 @@
+{
+  "bot": {
+    "total_messages": 33,
+    "total_users": 5,
+    "messages_by_mood": {
+      "обычное": 8,
+      "счастливая": 0,
+      "раздражённая": 5,
+      "усталая": 3,
+      "сонная": 17,
+      "взволнованная": 0,
+      "грустная": 0
+    },
+    "triggers_activated": {},
+    "images_sent": 7,
+    "errors": 0,
+    "start_time": "2026-01-28T10:57:00.435409",
+    "last_updated": "2026-01-28T15:14:53.207711"
+  },
+  "users": {
+    "total_users": 3,
+    "total_messages": 46,
+    "successful_messages": 43,
+    "blocked_messages": 3,
+    "active_7d": 3,
+    "active_30d": 3
+  },
+  "export_date": "2026-01-28T15:18:08.111366"
+}

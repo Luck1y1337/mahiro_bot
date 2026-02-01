@@ -1,0 +1,1642 @@
+2026-01-28 10:56:55,485 - __main__ - INFO - ==================================================
+2026-01-28 10:56:55,486 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 10:56:55,486 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 10:56:55,487 - __main__ - INFO - ==================================================
+2026-01-28 10:56:55,487 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 10:56:55,997 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 10:56:56,625 - aiogram.event - INFO - Update id=937160708 is handled. Duration 449 ms by bot id=8067941190
+2026-01-28 10:57:00,604 - aiogram.event - INFO - Update id=937160709 is handled. Duration 172 ms by bot id=8067941190
+2026-01-28 10:57:03,961 - aiogram.event - INFO - Update id=937160710 is handled. Duration 178 ms by bot id=8067941190
+2026-01-28 10:57:05,753 - aiogram.event - INFO - Update id=937160711 is handled. Duration 324 ms by bot id=8067941190
+2026-01-28 10:57:07,160 - aiogram.event - INFO - Update id=937160712 is handled. Duration 281 ms by bot id=8067941190
+2026-01-28 10:57:08,158 - aiogram.event - INFO - Update id=937160713 is handled. Duration 335 ms by bot id=8067941190
+2026-01-28 10:57:10,463 - aiogram.event - INFO - Update id=937160714 is handled. Duration 339 ms by bot id=8067941190
+2026-01-28 10:57:16,386 - aiogram.event - INFO - Update id=937160715 is not handled. Duration 4 ms by bot id=8067941190
+2026-01-28 10:57:17,677 - aiogram.event - INFO - Update id=937160716 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 10:57:19,563 - aiogram.event - INFO - Update id=937160717 is handled. Duration 289 ms by bot id=8067941190
+2026-01-28 10:57:21,147 - aiogram.event - INFO - Update id=937160718 is handled. Duration 315 ms by bot id=8067941190
+2026-01-28 10:57:21,912 - aiogram.event - INFO - Update id=937160719 is handled. Duration 289 ms by bot id=8067941190
+2026-01-28 10:57:23,042 - aiogram.event - INFO - Update id=937160720 is not handled. Duration 4 ms by bot id=8067941190
+2026-01-28 10:57:25,015 - aiogram.event - INFO - Update id=937160721 is handled. Duration 284 ms by bot id=8067941190
+2026-01-28 10:57:26,369 - aiogram.event - INFO - Update id=937160722 is handled. Duration 304 ms by bot id=8067941190
+2026-01-28 10:57:27,321 - aiogram.event - INFO - Update id=937160723 is handled. Duration 298 ms by bot id=8067941190
+2026-01-28 10:57:27,706 - aiogram.event - INFO - Update id=937160724 is not handled. Duration 4 ms by bot id=8067941190
+2026-01-28 10:57:35,459 - aiogram.event - INFO - Update id=937160725 is handled. Duration 148 ms by bot id=8067941190
+2026-01-28 10:57:38,134 - aiogram.event - INFO - Update id=937160726 is handled. Duration 165 ms by bot id=8067941190
+2026-01-28 10:57:41,521 - aiogram.event - INFO - Update id=937160727 is handled. Duration 190 ms by bot id=8067941190
+2026-01-28 10:57:44,980 - aiogram.event - INFO - Update id=937160728 is handled. Duration 154 ms by bot id=8067941190
+2026-01-28 10:57:51,836 - aiogram.event - INFO - Update id=937160729 is handled. Duration 335 ms by bot id=8067941190
+2026-01-28 10:58:58,529 - aiogram.event - INFO - Update id=937160730 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 10:59:10,447 - memory.mood_system - INFO - Настроение для 7955905703: усталая
+2026-01-28 10:59:11,669 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 10:59:11,844 - memory.trust_system - INFO - Trust для пользователя 7955905703: 0.05
+2026-01-28 10:59:11,851 - bot.handlers - INFO - Response sent to 7955905703: mood=усталая, trust=0.00
+2026-01-28 10:59:11,852 - aiogram.event - INFO - Update id=937160731 is handled. Duration 1855 ms by bot id=8067941190
+2026-01-28 10:59:20,441 - aiogram.event - INFO - Update id=937160732 is handled. Duration 161 ms by bot id=8067941190
+2026-01-28 11:00:38,380 - aiogram.event - INFO - Update id=937160733 is handled. Duration 403 ms by bot id=8067941190
+2026-01-28 11:00:54,507 - aiogram.event - INFO - Update id=937160734 is handled. Duration 404 ms by bot id=8067941190
+2026-01-28 11:00:56,106 - aiogram.event - INFO - Update id=937160735 is handled. Duration 322 ms by bot id=8067941190
+2026-01-28 11:00:59,629 - aiogram.event - INFO - Update id=937160736 is handled. Duration 303 ms by bot id=8067941190
+2026-01-28 11:01:02,073 - aiogram.event - INFO - Update id=937160737 is handled. Duration 329 ms by bot id=8067941190
+2026-01-28 11:01:02,593 - aiogram.event - INFO - Update id=937160738 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 11:01:06,786 - aiogram.event - INFO - Update id=937160739 is handled. Duration 296 ms by bot id=8067941190
+2026-01-28 11:01:07,898 - aiogram.event - INFO - Update id=937160740 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 11:01:08,285 - aiogram.event - INFO - Update id=937160741 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 11:01:10,303 - aiogram.event - INFO - Update id=937160742 is handled. Duration 425 ms by bot id=8067941190
+2026-01-28 11:01:10,928 - aiogram.event - INFO - Update id=937160743 is handled. Duration 752 ms by bot id=8067941190
+2026-01-28 11:01:16,956 - aiogram.event - INFO - Update id=937160744 is handled. Duration 144 ms by bot id=8067941190
+2026-01-28 11:03:12,394 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:03:12,660 - __main__ - INFO - Бот остановлен
+2026-01-28 11:03:12,661 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:03:12,663 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 11:03:21,026 - __main__ - INFO - ==================================================
+2026-01-28 11:03:21,027 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 11:03:21,028 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 11:03:21,028 - __main__ - INFO - ==================================================
+2026-01-28 11:03:21,030 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 11:03:21,563 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:03:25,872 - aiogram.event - INFO - Update id=937160745 is handled. Duration 454 ms by bot id=8067941190
+2026-01-28 11:03:29,524 - aiogram.event - INFO - Update id=937160746 is handled. Duration 344 ms by bot id=8067941190
+2026-01-28 11:03:34,748 - aiogram.event - INFO - Update id=937160747 is handled. Duration 313 ms by bot id=8067941190
+2026-01-28 11:03:36,364 - aiogram.event - INFO - Update id=937160748 is handled. Duration 429 ms by bot id=8067941190
+2026-01-28 11:03:43,514 - aiogram.event - INFO - Update id=937160749 is handled. Duration 218 ms by bot id=8067941190
+2026-01-28 11:03:49,781 - aiogram.event - INFO - Update id=937160750 is handled. Duration 189 ms by bot id=8067941190
+2026-01-28 11:04:02,534 - aiogram.event - INFO - Update id=937160751 is handled. Duration 1 ms by bot id=8067941190
+2026-01-28 11:04:18,816 - aiogram.event - INFO - Update id=937160752 is handled. Duration 423 ms by bot id=8067941190
+2026-01-28 11:04:20,105 - aiogram.event - INFO - Update id=937160753 is handled. Duration 302 ms by bot id=8067941190
+2026-01-28 11:04:22,186 - aiogram.event - INFO - Update id=937160754 is handled. Duration 405 ms by bot id=8067941190
+2026-01-28 11:04:23,755 - aiogram.event - INFO - Update id=937160755 is handled. Duration 378 ms by bot id=8067941190
+2026-01-28 11:04:31,974 - aiogram.event - INFO - Update id=937160756 is handled. Duration 394 ms by bot id=8067941190
+2026-01-28 11:04:45,121 - aiogram.event - INFO - Update id=937160757 is handled. Duration 285 ms by bot id=8067941190
+2026-01-28 11:04:46,835 - aiogram.event - INFO - Update id=937160758 is handled. Duration 308 ms by bot id=8067941190
+2026-01-28 11:04:48,958 - bot.admin_panel - INFO - Admin 7955905703 added 7228311090 to whitelist
+2026-01-28 11:04:48,958 - aiogram.event - INFO - Update id=937160759 is handled. Duration 171 ms by bot id=8067941190
+2026-01-28 11:04:51,796 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 11:04:51,796 - aiogram.event - INFO - Update id=937160760 is handled. Duration 234 ms by bot id=8067941190
+2026-01-28 11:04:56,469 - aiogram.event - INFO - Update id=937160761 is handled. Duration 172 ms by bot id=8067941190
+2026-01-28 11:04:58,985 - aiogram.event - INFO - Update id=937160762 is handled. Duration 1332 ms by bot id=8067941190
+2026-01-28 11:05:00,497 - aiogram.event - INFO - Update id=937160763 is handled. Duration 383 ms by bot id=8067941190
+2026-01-28 11:05:02,044 - aiogram.event - INFO - Update id=937160764 is handled. Duration 334 ms by bot id=8067941190
+2026-01-28 11:05:03,955 - aiogram.event - INFO - Update id=937160765 is handled. Duration 304 ms by bot id=8067941190
+2026-01-28 11:05:05,019 - aiogram.event - INFO - Update id=937160766 is handled. Duration 402 ms by bot id=8067941190
+2026-01-28 11:05:06,865 - aiogram.event - INFO - Update id=937160767 is handled. Duration 320 ms by bot id=8067941190
+2026-01-28 11:05:07,995 - aiogram.event - INFO - Update id=937160768 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 11:05:10,381 - aiogram.event - INFO - Update id=937160769 is handled. Duration 373 ms by bot id=8067941190
+2026-01-28 11:05:11,766 - aiogram.event - INFO - Update id=937160770 is handled. Duration 150 ms by bot id=8067941190
+2026-01-28 11:05:13,925 - aiogram.event - INFO - Update id=937160771 is handled. Duration 314 ms by bot id=8067941190
+2026-01-28 11:05:15,269 - aiogram.event - INFO - Update id=937160772 is handled. Duration 318 ms by bot id=8067941190
+2026-01-28 11:05:19,846 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:05:20,100 - __main__ - INFO - Бот остановлен
+2026-01-28 11:05:20,101 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:05:20,103 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 11:05:29,183 - __main__ - INFO - ==================================================
+2026-01-28 11:05:29,184 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 11:05:29,184 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 11:05:29,185 - __main__ - INFO - ==================================================
+2026-01-28 11:05:29,185 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 11:05:29,718 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:06:18,086 - aiogram.event - INFO - Update id=937160773 is handled. Duration 432 ms by bot id=8067941190
+2026-01-28 11:06:27,565 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:06:27,716 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.05
+2026-01-28 11:06:27,719 - bot.handlers - INFO - Response sent to 7228311090: mood=обычное, trust=0.00
+2026-01-28 11:06:27,719 - aiogram.event - INFO - Update id=937160774 is handled. Duration 1244 ms by bot id=8067941190
+2026-01-28 11:06:44,520 - memory.mood_system - INFO - Настроение для 7228311090: сонная
+2026-01-28 11:06:48,529 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:06:48,677 - media.image_manager - WARNING - Нет картинок для настроения: сонная
+2026-01-28 11:06:48,678 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 11:06:48,678 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 11:06:48,689 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.10
+2026-01-28 11:06:48,692 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.05
+2026-01-28 11:06:48,692 - aiogram.event - INFO - Update id=937160775 is handled. Duration 4584 ms by bot id=8067941190
+2026-01-28 11:07:22,130 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:07:22,284 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.15
+2026-01-28 11:07:22,287 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.10
+2026-01-28 11:07:22,287 - aiogram.event - INFO - Update id=937160776 is handled. Duration 1615 ms by bot id=8067941190
+2026-01-28 11:09:12,751 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:09:12,755 - aiogram.event - INFO - Update id=937160778 is handled. Duration 1414 ms by bot id=8067941190
+2026-01-28 11:09:12,946 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.20
+2026-01-28 11:09:12,950 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.15
+2026-01-28 11:09:12,950 - aiogram.event - INFO - Update id=937160777 is handled. Duration 1820 ms by bot id=8067941190
+2026-01-28 11:09:17,932 - aiogram.event - INFO - Update id=937160779 is handled. Duration 319 ms by bot id=8067941190
+2026-01-28 11:09:23,208 - aiogram.event - INFO - Update id=937160780 is handled. Duration 285 ms by bot id=8067941190
+2026-01-28 11:09:27,402 - aiogram.event - INFO - Update id=937160781 is handled. Duration 192 ms by bot id=8067941190
+2026-01-28 11:09:32,359 - aiogram.event - INFO - Update id=937160782 is handled. Duration 198 ms by bot id=8067941190
+2026-01-28 11:09:44,937 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:09:45,142 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.25
+2026-01-28 11:09:45,146 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.20
+2026-01-28 11:09:45,147 - aiogram.event - INFO - Update id=937160783 is handled. Duration 1379 ms by bot id=8067941190
+2026-01-28 11:09:53,532 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:09:53,817 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.30
+2026-01-28 11:09:53,821 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.25
+2026-01-28 11:09:53,821 - aiogram.event - INFO - Update id=937160784 is handled. Duration 1837 ms by bot id=8067941190
+2026-01-28 11:10:13,688 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:10:14,027 - media.image_manager - WARNING - Нет картинок для настроения: сонная
+2026-01-28 11:10:14,028 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 11:10:14,029 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 11:10:14,040 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.35
+2026-01-28 11:10:14,043 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.30
+2026-01-28 11:10:14,044 - aiogram.event - INFO - Update id=937160785 is handled. Duration 3364 ms by bot id=8067941190
+2026-01-28 11:10:17,027 - aiogram.event - INFO - Update id=937160786 is handled. Duration 638 ms by bot id=8067941190
+2026-01-28 11:10:20,218 - aiogram.event - INFO - Update id=937160787 is handled. Duration 563 ms by bot id=8067941190
+2026-01-28 11:10:28,753 - aiogram.event - INFO - Update id=937160788 is handled. Duration 273 ms by bot id=8067941190
+2026-01-28 11:10:31,905 - aiogram.event - INFO - Update id=937160789 is handled. Duration 248 ms by bot id=8067941190
+2026-01-28 11:10:33,234 - aiogram.event - INFO - Update id=937160790 is handled. Duration 320 ms by bot id=8067941190
+2026-01-28 11:10:37,039 - aiogram.event - INFO - Update id=937160791 is handled. Duration 462 ms by bot id=8067941190
+2026-01-28 11:10:39,064 - aiogram.event - INFO - Update id=937160792 is handled. Duration 155 ms by bot id=8067941190
+2026-01-28 11:10:45,536 - aiogram.event - INFO - Update id=937160793 is handled. Duration 194 ms by bot id=8067941190
+2026-01-28 11:10:49,658 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:10:49,934 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.40
+2026-01-28 11:10:49,938 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.35
+2026-01-28 11:10:49,938 - aiogram.event - INFO - Update id=937160794 is handled. Duration 2401 ms by bot id=8067941190
+2026-01-28 11:10:50,345 - aiogram.event - INFO - Update id=937160795 is handled. Duration 682 ms by bot id=8067941190
+2026-01-28 11:11:01,171 - aiogram.event - INFO - Update id=937160796 is handled. Duration 274 ms by bot id=8067941190
+2026-01-28 11:11:04,003 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:11:04,346 - media.image_manager - WARNING - Нет картинок для настроения: сонная
+2026-01-28 11:11:04,347 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 11:11:04,347 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 11:11:04,358 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.45
+2026-01-28 11:11:04,361 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.40
+2026-01-28 11:11:04,361 - aiogram.event - INFO - Update id=937160797 is handled. Duration 2233 ms by bot id=8067941190
+2026-01-28 11:11:14,518 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:11:14,723 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.50
+2026-01-28 11:11:14,727 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.45
+2026-01-28 11:11:14,728 - aiogram.event - INFO - Update id=937160798 is handled. Duration 1620 ms by bot id=8067941190
+2026-01-28 11:11:16,306 - aiogram.event - INFO - Update id=937160799 is handled. Duration 232 ms by bot id=8067941190
+2026-01-28 11:11:52,297 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:11:52,531 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.55
+2026-01-28 11:11:52,534 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.50
+2026-01-28 11:11:52,535 - aiogram.event - INFO - Update id=937160800 is handled. Duration 2381 ms by bot id=8067941190
+2026-01-28 11:12:05,402 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:12:05,701 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.60
+2026-01-28 11:12:05,705 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.55
+2026-01-28 11:12:05,705 - aiogram.event - INFO - Update id=937160801 is handled. Duration 2891 ms by bot id=8067941190
+2026-01-28 11:12:35,285 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:12:35,578 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.65
+2026-01-28 11:12:35,581 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.60
+2026-01-28 11:12:35,581 - aiogram.event - INFO - Update id=937160802 is handled. Duration 2679 ms by bot id=8067941190
+2026-01-28 11:13:00,237 - aiogram.event - INFO - Update id=937160803 is handled. Duration 450 ms by bot id=8067941190
+2026-01-28 11:13:02,396 - aiogram.event - INFO - Update id=937160804 is handled. Duration 472 ms by bot id=8067941190
+2026-01-28 11:13:04,505 - aiogram.event - INFO - Update id=937160805 is handled. Duration 410 ms by bot id=8067941190
+2026-01-28 11:13:06,622 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:13:06,832 - media.image_manager - WARNING - Нет картинок для настроения: сонная
+2026-01-28 11:13:06,833 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 11:13:06,834 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 11:13:06,844 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.70
+2026-01-28 11:13:06,847 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.65
+2026-01-28 11:13:06,848 - aiogram.event - INFO - Update id=937160806 is handled. Duration 2089 ms by bot id=8067941190
+2026-01-28 11:13:07,425 - aiogram.event - INFO - Update id=937160807 is handled. Duration 798 ms by bot id=8067941190
+2026-01-28 11:13:15,602 - aiogram.event - INFO - Update id=937160808 is handled. Duration 539 ms by bot id=8067941190
+2026-01-28 11:13:17,787 - aiogram.event - INFO - Update id=937160809 is handled. Duration 512 ms by bot id=8067941190
+2026-01-28 11:13:22,563 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:13:22,987 - aiogram.event - INFO - Update id=937160811 is handled. Duration 2630 ms by bot id=8067941190
+2026-01-28 11:13:23,047 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.75
+2026-01-28 11:13:23,049 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.70
+2026-01-28 11:13:23,050 - aiogram.event - INFO - Update id=937160810 is handled. Duration 3265 ms by bot id=8067941190
+2026-01-28 11:13:38,931 - bot.admin_panel - INFO - Admin 7955905703 removed 7228311090 from whitelist
+2026-01-28 11:13:38,931 - aiogram.event - INFO - Update id=937160812 is handled. Duration 528 ms by bot id=8067941190
+2026-01-28 11:13:41,872 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 11:13:41,873 - aiogram.event - INFO - Update id=937160813 is handled. Duration 299 ms by bot id=8067941190
+2026-01-28 11:13:49,445 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:13:49,707 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.80
+2026-01-28 11:13:49,710 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.75
+2026-01-28 11:13:49,710 - aiogram.event - INFO - Update id=937160814 is handled. Duration 1937 ms by bot id=8067941190
+2026-01-28 11:13:57,476 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:13:57,744 - __main__ - INFO - Бот остановлен
+2026-01-28 11:13:57,745 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:13:57,748 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 11:14:04,823 - __main__ - INFO - ==================================================
+2026-01-28 11:14:04,824 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 11:14:04,824 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 11:14:04,825 - __main__ - INFO - ==================================================
+2026-01-28 11:14:04,825 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 11:14:05,331 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:14:05,959 - aiogram.event - INFO - Update id=937160815 is handled. Duration 443 ms by bot id=8067941190
+2026-01-28 11:14:16,817 - aiogram.event - INFO - Update id=937160816 is handled. Duration 158 ms by bot id=8067941190
+2026-01-28 11:14:18,447 - aiogram.event - INFO - Update id=937160817 is handled. Duration 321 ms by bot id=8067941190
+2026-01-28 11:14:19,599 - aiogram.event - INFO - Update id=937160818 is handled. Duration 297 ms by bot id=8067941190
+2026-01-28 11:14:21,275 - bot.admin_panel - INFO - Admin 7955905703 added 7228311090 to blacklist
+2026-01-28 11:14:21,275 - aiogram.event - INFO - Update id=937160819 is handled. Duration 156 ms by bot id=8067941190
+2026-01-28 11:14:22,556 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 11:14:22,557 - aiogram.event - INFO - Update id=937160820 is handled. Duration 182 ms by bot id=8067941190
+2026-01-28 11:14:24,298 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:14:24,554 - __main__ - INFO - Бот остановлен
+2026-01-28 11:14:24,555 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:14:24,557 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 11:14:30,881 - __main__ - INFO - ==================================================
+2026-01-28 11:14:30,881 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 11:14:30,882 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 11:14:30,882 - __main__ - INFO - ==================================================
+2026-01-28 11:14:30,883 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 11:14:31,264 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:14:35,839 - aiogram.event - INFO - Update id=937160821 is handled. Duration 477 ms by bot id=8067941190
+2026-01-28 11:14:43,743 - aiogram.event - INFO - Update id=937160822 is handled. Duration 166 ms by bot id=8067941190
+2026-01-28 11:14:45,394 - aiogram.event - INFO - Update id=937160823 is handled. Duration 353 ms by bot id=8067941190
+2026-01-28 11:14:45,857 - aiogram.event - INFO - Update id=937160824 is handled. Duration 2 ms by bot id=8067941190
+2026-01-28 11:14:46,601 - aiogram.event - INFO - Update id=937160825 is handled. Duration 160 ms by bot id=8067941190
+2026-01-28 11:14:47,999 - aiogram.event - INFO - Update id=937160826 is handled. Duration 348 ms by bot id=8067941190
+2026-01-28 11:14:48,481 - aiogram.event - INFO - Update id=937160827 is handled. Duration 1 ms by bot id=8067941190
+2026-01-28 11:14:49,622 - aiogram.event - INFO - Update id=937160828 is handled. Duration 367 ms by bot id=8067941190
+2026-01-28 11:14:50,718 - aiogram.event - INFO - Update id=937160829 is handled. Duration 371 ms by bot id=8067941190
+2026-01-28 11:14:53,163 - aiogram.event - INFO - Update id=937160830 is handled. Duration 335 ms by bot id=8067941190
+2026-01-28 11:14:54,797 - aiogram.event - INFO - Update id=937160831 is handled. Duration 307 ms by bot id=8067941190
+2026-01-28 11:14:55,711 - aiogram.event - INFO - Update id=937160832 is handled. Duration 341 ms by bot id=8067941190
+2026-01-28 11:14:57,372 - bot.admin_panel - INFO - Admin 7955905703 removed 7228311090 from blacklist
+2026-01-28 11:14:57,373 - aiogram.event - INFO - Update id=937160833 is handled. Duration 161 ms by bot id=8067941190
+2026-01-28 11:14:59,137 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 11:14:59,138 - aiogram.event - INFO - Update id=937160834 is handled. Duration 224 ms by bot id=8067941190
+2026-01-28 11:15:01,075 - aiogram.event - INFO - Update id=937160835 is handled. Duration 594 ms by bot id=8067941190
+2026-01-28 11:15:02,579 - aiogram.event - INFO - Update id=937160836 is handled. Duration 376 ms by bot id=8067941190
+2026-01-28 11:15:03,734 - aiogram.event - INFO - Update id=937160837 is handled. Duration 319 ms by bot id=8067941190
+2026-01-28 11:15:05,536 - bot.admin_panel - INFO - Admin 7955905703 added 7228311090 to whitelist
+2026-01-28 11:15:05,537 - aiogram.event - INFO - Update id=937160838 is handled. Duration 146 ms by bot id=8067941190
+2026-01-28 11:15:06,706 - aiogram.event - INFO - Update id=937160839 is handled. Duration 1 ms by bot id=8067941190
+2026-01-28 11:15:07,068 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 11:15:07,068 - aiogram.event - INFO - Update id=937160840 is handled. Duration 194 ms by bot id=8067941190
+2026-01-28 11:15:08,424 - aiogram.event - INFO - Update id=937160841 is handled. Duration 215 ms by bot id=8067941190
+2026-01-28 11:15:10,928 - aiogram.event - INFO - Update id=937160842 is handled. Duration 477 ms by bot id=8067941190
+2026-01-28 11:15:11,671 - aiogram.event - INFO - Update id=937160844 is handled. Duration 1 ms by bot id=8067941190
+2026-01-28 11:15:11,910 - aiogram.event - INFO - Update id=937160843 is handled. Duration 382 ms by bot id=8067941190
+2026-01-28 11:15:13,142 - aiogram.event - INFO - Update id=937160845 is handled. Duration 472 ms by bot id=8067941190
+2026-01-28 11:15:13,205 - aiogram.event - INFO - Update id=937160846 is handled. Duration 1 ms by bot id=8067941190
+2026-01-28 11:15:13,834 - aiogram.event - INFO - Update id=937160847 is handled. Duration 372 ms by bot id=8067941190
+2026-01-28 11:15:14,795 - aiogram.event - INFO - Update id=937160848 is handled. Duration 294 ms by bot id=8067941190
+2026-01-28 11:15:16,330 - aiogram.event - INFO - Update id=937160849 is handled. Duration 320 ms by bot id=8067941190
+2026-01-28 11:15:22,599 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:15:22,863 - __main__ - INFO - Бот остановлен
+2026-01-28 11:15:22,863 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:15:22,865 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 11:15:29,641 - __main__ - INFO - ==================================================
+2026-01-28 11:15:29,642 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 11:15:29,642 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 11:15:29,643 - __main__ - INFO - ==================================================
+2026-01-28 11:15:29,643 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 11:15:30,031 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:15:32,817 - aiogram.event - INFO - Update id=937160850 is handled. Duration 590 ms by bot id=8067941190
+2026-01-28 11:15:35,072 - aiogram.event - INFO - Update id=937160851 is handled. Duration 270 ms by bot id=8067941190
+2026-01-28 11:15:37,219 - aiogram.event - INFO - Update id=937160852 is handled. Duration 334 ms by bot id=8067941190
+2026-01-28 11:15:39,072 - aiogram.event - INFO - Update id=937160853 is handled. Duration 190 ms by bot id=8067941190
+2026-01-28 11:16:20,229 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:16:20,407 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.85
+2026-01-28 11:16:20,410 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.80
+2026-01-28 11:16:20,411 - aiogram.event - INFO - Update id=937160854 is handled. Duration 1757 ms by bot id=8067941190
+2026-01-28 11:16:30,486 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:16:30,855 - media.image_manager - WARNING - Нет картинок для настроения: сонная
+2026-01-28 11:16:30,856 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 11:16:30,857 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 11:16:30,869 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.90
+2026-01-28 11:16:30,872 - bot.handlers - INFO - Response sent to 7228311090: mood=сонная, trust=0.85
+2026-01-28 11:16:30,873 - aiogram.event - INFO - Update id=937160855 is handled. Duration 1656 ms by bot id=8067941190
+2026-01-28 11:16:55,588 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:16:55,848 - __main__ - INFO - Бот остановлен
+2026-01-28 11:16:55,849 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:16:55,850 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 11:17:09,331 - __main__ - INFO - ==================================================
+2026-01-28 11:17:09,332 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 11:17:09,332 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 11:17:09,333 - __main__ - INFO - ==================================================
+2026-01-28 11:17:09,333 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 11:17:09,753 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:17:15,967 - aiogram.event - INFO - Update id=937160856 is handled. Duration 482 ms by bot id=8067941190
+2026-01-28 11:17:18,878 - aiogram.event - INFO - Update id=937160857 is handled. Duration 314 ms by bot id=8067941190
+2026-01-28 11:17:28,807 - memory.mood_system - INFO - Настроение для 7228311090: раздражённая
+2026-01-28 11:17:29,803 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:17:29,964 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.95
+2026-01-28 11:17:29,967 - bot.handlers - INFO - Response sent to 7228311090: mood=раздражённая, trust=0.90
+2026-01-28 11:17:29,967 - aiogram.event - INFO - Update id=937160858 is handled. Duration 1306 ms by bot id=8067941190
+2026-01-28 11:17:32,074 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 3 success, 0 failed
+2026-01-28 11:17:32,074 - aiogram.event - INFO - Update id=937160859 is handled. Duration 862 ms by bot id=8067941190
+2026-01-28 11:17:50,218 - aiogram.event - INFO - Update id=937160860 is handled. Duration 405 ms by bot id=8067941190
+2026-01-28 11:17:53,213 - aiogram.event - INFO - Update id=937160861 is handled. Duration 291 ms by bot id=8067941190
+2026-01-28 11:17:54,721 - aiogram.event - INFO - Update id=937160862 is handled. Duration 401 ms by bot id=8067941190
+2026-01-28 11:17:55,601 - aiogram.event - INFO - Update id=937160863 is handled. Duration 394 ms by bot id=8067941190
+2026-01-28 11:17:56,002 - aiogram.event - INFO - Update id=937160864 is not handled. Duration 3 ms by bot id=8067941190
+2026-01-28 11:17:57,937 - aiogram.event - INFO - Update id=937160865 is handled. Duration 317 ms by bot id=8067941190
+2026-01-28 11:18:04,846 - aiogram.event - INFO - Update id=937160866 is handled. Duration 286 ms by bot id=8067941190
+2026-01-28 11:18:15,237 - aiogram.event - INFO - Update id=937160867 is handled. Duration 351 ms by bot id=8067941190
+2026-01-28 11:18:24,800 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:18:24,960 - memory.trust_system - INFO - Trust для пользователя 7228311090: 1.00
+2026-01-28 11:18:24,963 - bot.handlers - INFO - Response sent to 7228311090: mood=раздражённая, trust=0.95
+2026-01-28 11:18:24,963 - aiogram.event - INFO - Update id=937160868 is handled. Duration 1340 ms by bot id=8067941190
+2026-01-28 11:18:39,919 - aiogram.event - INFO - Update id=937160869 is handled. Duration 162 ms by bot id=8067941190
+2026-01-28 11:18:41,564 - aiogram.event - INFO - Update id=937160870 is handled. Duration 338 ms by bot id=8067941190
+2026-01-28 11:18:43,287 - aiogram.event - INFO - Update id=937160871 is handled. Duration 282 ms by bot id=8067941190
+2026-01-28 11:18:44,260 - ai.triggers - INFO - State trigger activated: спать
+2026-01-28 11:18:44,435 - memory.trust_system - INFO - Trust для пользователя 7228311090: 1.00
+2026-01-28 11:18:44,437 - bot.handlers - INFO - Trigger response sent to 7228311090
+2026-01-28 11:18:44,438 - aiogram.event - INFO - Update id=937160872 is handled. Duration 352 ms by bot id=8067941190
+2026-01-28 11:18:54,639 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:18:54,877 - memory.trust_system - INFO - Trust для пользователя 7228311090: 1.00
+2026-01-28 11:18:54,882 - bot.handlers - INFO - Response sent to 7228311090: mood=раздражённая, trust=1.00
+2026-01-28 11:18:54,882 - aiogram.event - INFO - Update id=937160873 is handled. Duration 2029 ms by bot id=8067941190
+2026-01-28 11:19:56,102 - aiogram.event - INFO - Update id=937160874 is not handled. Duration 1 ms by bot id=8067941190
+2026-01-28 11:19:59,917 - aiogram.event - INFO - Update id=937160875 is handled. Duration 426 ms by bot id=8067941190
+2026-01-28 11:20:05,728 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:20:05,891 - memory.trust_system - INFO - Trust для пользователя 7955905703: 0.10
+2026-01-28 11:20:05,894 - bot.handlers - INFO - Response sent to 7955905703: mood=усталая, trust=0.05
+2026-01-28 11:20:05,895 - aiogram.event - INFO - Update id=937160876 is handled. Duration 946 ms by bot id=8067941190
+2026-01-28 11:20:18,926 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:20:19,146 - media.image_manager - WARNING - Нет картинок для настроения: усталая
+2026-01-28 11:20:19,147 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 11:20:19,148 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 11:20:19,159 - memory.trust_system - INFO - Trust для пользователя 7955905703: 0.15
+2026-01-28 11:20:19,162 - bot.handlers - INFO - Response sent to 7955905703: mood=усталая, trust=0.10
+2026-01-28 11:20:19,163 - aiogram.event - INFO - Update id=937160877 is handled. Duration 1241 ms by bot id=8067941190
+2026-01-28 11:20:20,269 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 11:20:20,469 - memory.trust_system - INFO - Trust для пользователя 7228311090: 1.00
+2026-01-28 11:20:20,472 - bot.handlers - INFO - Response sent to 7228311090: mood=раздражённая, trust=1.00
+2026-01-28 11:20:20,473 - aiogram.event - INFO - Update id=937160878 is handled. Duration 1161 ms by bot id=8067941190
+2026-01-28 11:20:50,778 - aiogram.event - INFO - Update id=937160879 is handled. Duration 399 ms by bot id=8067941190
+2026-01-28 11:21:37,312 - aiogram.event - INFO - Update id=937160880 is handled. Duration 461 ms by bot id=8067941190
+2026-01-28 11:21:53,226 - memory.mood_system - INFO - Настроение для 7955905703: обычное
+2026-01-28 11:21:53,641 - aiogram.event - INFO - Update id=937160881 is handled. Duration 418 ms by bot id=8067941190
+2026-01-28 11:21:57,952 - aiogram.event - INFO - Update id=937160882 is handled. Duration 152 ms by bot id=8067941190
+2026-01-28 11:22:10,461 - aiogram.event - INFO - Update id=937160883 is handled. Duration 169 ms by bot id=8067941190
+2026-01-28 11:22:13,884 - aiogram.event - INFO - Update id=937160884 is handled. Duration 277 ms by bot id=8067941190
+2026-01-28 11:22:18,850 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 3 success, 0 failed
+2026-01-28 11:22:18,851 - aiogram.event - INFO - Update id=937160885 is handled. Duration 790 ms by bot id=8067941190
+2026-01-28 11:22:24,979 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 11:22:25,239 - __main__ - INFO - Бот остановлен
+2026-01-28 11:22:25,240 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 11:22:25,242 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 13:41:43,197 - __main__ - INFO - ==================================================
+2026-01-28 13:41:43,198 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 13:41:43,198 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 13:41:43,198 - __main__ - INFO - ==================================================
+2026-01-28 13:41:43,199 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 13:42:15,989 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 13:42:16,244 - __main__ - INFO - Бот остановлен
+2026-01-28 13:42:16,305 - __main__ - ERROR - Критическая ошибка: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Указанное сетевое имя более недоступно]
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_events.py", line 463, in finish_socket_func
+    return ov.getresult()
+           ~~~~~~~~~~~~^^
+OSError: [WinError 64] Указанное сетевое имя более недоступно
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\connector.py", line 1116, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1188, in create_connection
+    transport, protocol = await self._create_connection_transport(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        ssl_shutdown_timeout=ssl_shutdown_timeout)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1221, in _create_connection_transport
+    await waiter
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 286, in _loop_reading
+    length = fut.result()
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_events.py", line 804, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\windows_events.py", line 467, in finish_socket_func
+    raise ConnectionResetError(*exc.args)
+ConnectionResetError: [WinError 64] Указанное сетевое имя более недоступно
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 181, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url, data=form, timeout=self.timeout if timeout is None else timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\client.py", line 1360, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\client.py", line 663, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\connector.py", line 538, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\connector.py", line 1050, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\connector.py", line 1384, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\connector.py", line 1353, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiohttp\connector.py", line 1124, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Указанное сетевое имя более недоступно]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\main.py", line 62, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Luck1y\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\main.py", line 54, in main
+    await dp.start_polling(bot, allowed_updates=["message", "callback_query"])
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 551, in start_polling
+    await asyncio.gather(*done)
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 340, in _polling
+    user: User = await bot.me()
+                 ^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\bot.py", line 366, in me
+    self._me = await self.get_me()
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\bot.py", line 1864, in get_me
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\bot.py", line 494, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 188, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Указанное сетевое имя более недоступно]
+2026-01-28 13:47:22,902 - __main__ - INFO - ==================================================
+2026-01-28 13:47:22,903 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 13:47:22,904 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 13:47:22,904 - __main__ - INFO - ==================================================
+2026-01-28 13:47:22,906 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 13:47:23,492 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 13:47:24,338 - aiogram.event - INFO - Update id=937160886 is handled. Duration 592 ms by bot id=8067941190
+2026-01-28 13:47:26,930 - aiogram.event - INFO - Update id=937160887 is handled. Duration 490 ms by bot id=8067941190
+2026-01-28 13:49:11,522 - aiogram.event - INFO - Update id=937160888 is handled. Duration 569 ms by bot id=8067941190
+2026-01-28 13:49:21,406 - aiogram.event - INFO - Update id=937160889 is handled. Duration 390 ms by bot id=8067941190
+2026-01-28 13:49:27,357 - aiogram.event - INFO - Update id=937160890 is handled. Duration 352 ms by bot id=8067941190
+2026-01-28 13:49:28,893 - aiogram.event - INFO - Update id=937160891 is handled. Duration 289 ms by bot id=8067941190
+2026-01-28 13:49:31,615 - aiogram.event - INFO - Update id=937160892 is handled. Duration 499 ms by bot id=8067941190
+2026-01-28 13:57:05,844 - aiogram.event - INFO - Update id=937160893 is not handled. Duration 34611 ms by bot id=8067941190
+2026-01-28 13:57:05,845 - aiogram.event - ERROR - Cause exception while process update id=937160893 by bot id=8067941190
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\bot\admin_panel.py", line 277, in admin_whitelist_menu
+    await callback.answer()
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\bot.py", line 494, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-01-28 13:57:42,069 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-28 13:57:42,070 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-01-28 13:57:53,516 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8067941190)
+2026-01-28 13:58:31,550 - aiogram.event - INFO - Update id=937160894 is handled. Duration 468 ms by bot id=8067941190
+2026-01-28 13:58:33,164 - aiogram.event - INFO - Update id=937160895 is handled. Duration 298 ms by bot id=8067941190
+2026-01-28 13:58:34,747 - aiogram.event - INFO - Update id=937160896 is handled. Duration 293 ms by bot id=8067941190
+2026-01-28 13:58:36,602 - aiogram.event - INFO - Update id=937160897 is handled. Duration 493 ms by bot id=8067941190
+2026-01-28 13:58:38,078 - aiogram.event - INFO - Update id=937160898 is not handled. Duration 41 ms by bot id=8067941190
+2026-01-28 14:20:42,087 - aiogram.event - INFO - Update id=937160899 is handled. Duration 583 ms by bot id=8067941190
+2026-01-28 14:20:44,837 - aiogram.event - INFO - Update id=937160900 is handled. Duration 284 ms by bot id=8067941190
+2026-01-28 14:20:46,288 - aiogram.event - INFO - Update id=937160901 is handled. Duration 173 ms by bot id=8067941190
+2026-01-28 14:20:48,794 - aiogram.event - INFO - Update id=937160902 is handled. Duration 137 ms by bot id=8067941190
+2026-01-28 14:20:50,992 - aiogram.event - INFO - Update id=937160903 is handled. Duration 301 ms by bot id=8067941190
+2026-01-28 14:20:53,271 - aiogram.event - INFO - Update id=937160904 is handled. Duration 432 ms by bot id=8067941190
+2026-01-28 14:20:54,347 - aiogram.event - INFO - Update id=937160905 is handled. Duration 279 ms by bot id=8067941190
+2026-01-28 14:21:07,890 - aiogram.event - INFO - Update id=937160906 is handled. Duration 507 ms by bot id=8067941190
+2026-01-28 14:21:10,238 - aiogram.event - INFO - Update id=937160907 is handled. Duration 287 ms by bot id=8067941190
+2026-01-28 14:21:11,884 - aiogram.event - INFO - Update id=937160908 is handled. Duration 613 ms by bot id=8067941190
+2026-01-28 14:21:13,114 - aiogram.event - INFO - Update id=937160909 is handled. Duration 508 ms by bot id=8067941190
+2026-01-28 14:21:15,666 - aiogram.event - INFO - Update id=937160910 is handled. Duration 402 ms by bot id=8067941190
+2026-01-28 14:21:18,948 - bot.admin_panel - INFO - Admin 7955905703 added 7766141934 to whitelist
+2026-01-28 14:21:18,950 - aiogram.event - INFO - Update id=937160911 is handled. Duration 302 ms by bot id=8067941190
+2026-01-28 14:21:22,637 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 14:21:22,638 - aiogram.event - INFO - Update id=937160912 is handled. Duration 297 ms by bot id=8067941190
+2026-01-28 14:21:27,605 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 14:21:28,417 - __main__ - INFO - Бот остановлен
+2026-01-28 14:21:28,422 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:21:28,497 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 14:21:39,641 - __main__ - INFO - ==================================================
+2026-01-28 14:21:39,641 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 14:21:39,642 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 14:21:39,642 - __main__ - INFO - ==================================================
+2026-01-28 14:21:39,643 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 14:21:40,155 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:21:48,883 - aiogram.event - INFO - Update id=937160913 is handled. Duration 588 ms by bot id=8067941190
+2026-01-28 14:21:52,407 - aiogram.event - INFO - Update id=937160914 is handled. Duration 441 ms by bot id=8067941190
+2026-01-28 14:21:54,284 - aiogram.event - INFO - Update id=937160915 is handled. Duration 761 ms by bot id=8067941190
+2026-01-28 14:21:56,651 - aiogram.event - INFO - Update id=937160916 is handled. Duration 261 ms by bot id=8067941190
+2026-01-28 14:21:58,918 - aiogram.event - INFO - Update id=937160917 is not handled. Duration 26 ms by bot id=8067941190
+2026-01-28 14:22:03,046 - aiogram.event - INFO - Update id=937160918 is handled. Duration 278 ms by bot id=8067941190
+2026-01-28 14:22:15,741 - aiogram.event - INFO - Update id=937160919 is handled. Duration 264 ms by bot id=8067941190
+2026-01-28 14:22:17,653 - aiogram.event - INFO - Update id=937160920 is handled. Duration 329 ms by bot id=8067941190
+2026-01-28 14:22:28,839 - aiogram.event - INFO - Update id=937160921 is handled. Duration 272 ms by bot id=8067941190
+2026-01-28 14:22:32,088 - aiogram.event - INFO - Update id=937160922 is handled. Duration 475 ms by bot id=8067941190
+2026-01-28 14:22:34,802 - aiogram.event - INFO - Update id=937160923 is handled. Duration 278 ms by bot id=8067941190
+2026-01-28 14:22:37,244 - aiogram.event - INFO - Update id=937160924 is handled. Duration 265 ms by bot id=8067941190
+2026-01-28 14:22:38,797 - aiogram.event - INFO - Update id=937160925 is handled. Duration 275 ms by bot id=8067941190
+2026-01-28 14:22:56,357 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 3 success, 0 failed
+2026-01-28 14:22:56,358 - aiogram.event - INFO - Update id=937160926 is handled. Duration 950 ms by bot id=8067941190
+2026-01-28 14:23:11,324 - aiogram.event - INFO - Update id=937160927 is handled. Duration 191 ms by bot id=8067941190
+2026-01-28 14:23:13,968 - aiogram.event - INFO - Update id=937160928 is handled. Duration 261 ms by bot id=8067941190
+2026-01-28 14:23:15,446 - aiogram.event - INFO - Update id=937160929 is handled. Duration 261 ms by bot id=8067941190
+2026-01-28 14:23:17,010 - aiogram.event - INFO - Update id=937160930 is handled. Duration 390 ms by bot id=8067941190
+2026-01-28 14:23:18,144 - aiogram.event - INFO - Update id=937160931 is handled. Duration 614 ms by bot id=8067941190
+2026-01-28 14:23:26,717 - aiogram.event - INFO - Update id=937160932 is handled. Duration 148 ms by bot id=8067941190
+2026-01-28 14:23:29,173 - aiogram.event - INFO - Update id=937160933 is handled. Duration 151 ms by bot id=8067941190
+2026-01-28 14:23:39,345 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 14:23:39,566 - memory.trust_system - INFO - Trust для пользователя 7955905703: 0.20
+2026-01-28 14:23:39,596 - bot.handlers - INFO - Response sent to 7955905703: mood=обычное, trust=0.15
+2026-01-28 14:23:39,598 - aiogram.event - INFO - Update id=937160934 is handled. Duration 1622 ms by bot id=8067941190
+2026-01-28 14:23:50,399 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 14:23:50,601 - memory.trust_system - INFO - Trust для пользователя 7955905703: 0.25
+2026-01-28 14:23:50,614 - bot.handlers - INFO - Response sent to 7955905703: mood=обычное, trust=0.20
+2026-01-28 14:23:50,615 - aiogram.event - INFO - Update id=937160935 is handled. Duration 1136 ms by bot id=8067941190
+2026-01-28 14:24:05,240 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 14:24:05,464 - media.image_manager - WARNING - Нет картинок для настроения: обычное
+2026-01-28 14:24:05,470 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 14:24:05,472 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 14:24:05,561 - memory.trust_system - INFO - Trust для пользователя 7955905703: 0.30
+2026-01-28 14:24:05,576 - bot.handlers - INFO - Response sent to 7955905703: mood=обычное, trust=0.25
+2026-01-28 14:24:05,577 - aiogram.event - INFO - Update id=937160936 is handled. Duration 1666 ms by bot id=8067941190
+2026-01-28 14:30:05,262 - aiogram.event - INFO - Update id=937160937 is handled. Duration 388 ms by bot id=8067941190
+2026-01-28 14:34:26,863 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 14:34:27,133 - memory.trust_system - INFO - Trust для пользователя 7766141934: 0.05
+2026-01-28 14:34:27,161 - bot.handlers - INFO - Response sent to 7766141934: mood=обычное, trust=0.00
+2026-01-28 14:34:27,165 - aiogram.event - INFO - Update id=937160938 is handled. Duration 3372 ms by bot id=8067941190
+2026-01-28 14:38:33,300 - aiogram.event - INFO - Update id=937160939 is handled. Duration 362 ms by bot id=8067941190
+2026-01-28 14:38:35,370 - aiogram.event - INFO - Update id=937160940 is handled. Duration 276 ms by bot id=8067941190
+2026-01-28 14:38:53,576 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 14:38:53,832 - __main__ - INFO - Бот остановлен
+2026-01-28 14:38:53,840 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:38:53,860 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 14:39:02,192 - __main__ - INFO - ==================================================
+2026-01-28 14:39:02,192 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 14:39:02,192 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 14:39:02,193 - __main__ - INFO - ==================================================
+2026-01-28 14:39:02,193 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 14:39:02,565 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:39:18,121 - aiogram.event - INFO - Update id=937160941 is handled. Duration 634 ms by bot id=8067941190
+2026-01-28 14:39:57,424 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 14:39:57,682 - __main__ - INFO - Бот остановлен
+2026-01-28 14:39:57,682 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:39:57,684 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 14:40:05,331 - __main__ - INFO - ==================================================
+2026-01-28 14:40:05,331 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 14:40:05,332 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 14:40:05,332 - __main__ - INFO - ==================================================
+2026-01-28 14:40:05,333 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 14:40:05,764 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:40:14,428 - aiogram.event - INFO - Update id=937160942 is handled. Duration 581 ms by bot id=8067941190
+2026-01-28 14:48:58,629 - aiogram.event - INFO - Update id=937160943 is handled. Duration 414 ms by bot id=8067941190
+2026-01-28 14:49:02,627 - aiogram.event - INFO - Update id=937160944 is handled. Duration 202 ms by bot id=8067941190
+2026-01-28 14:57:59,236 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 14:57:59,504 - __main__ - INFO - Бот остановлен
+2026-01-28 14:57:59,506 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:57:59,514 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 14:58:07,629 - __main__ - INFO - ==================================================
+2026-01-28 14:58:07,629 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 14:58:07,630 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 14:58:07,630 - __main__ - INFO - ==================================================
+2026-01-28 14:58:07,630 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 14:58:07,975 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 14:58:17,779 - aiogram.event - INFO - Update id=937160945 is handled. Duration 543 ms by bot id=8067941190
+2026-01-28 14:58:23,308 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 14:58:23,544 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 14:58:23,563 - bot.handlers - INFO - Response sent to 7955905703: mood=обычное, trust=20.00
+2026-01-28 14:58:23,566 - aiogram.event - INFO - Update id=937160946 is handled. Duration 1417 ms by bot id=8067941190
+2026-01-28 14:58:30,817 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 14:58:31,061 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 14:58:31,093 - bot.handlers - INFO - Response sent to 7955905703: mood=обычное, trust=1.00
+2026-01-28 14:58:31,114 - aiogram.event - INFO - Update id=937160947 is handled. Duration 1594 ms by bot id=8067941190
+2026-01-28 14:58:41,961 - aiogram.event - INFO - Update id=937160948 is handled. Duration 283 ms by bot id=8067941190
+2026-01-28 14:59:19,897 - aiogram.event - INFO - Update id=937160949 is not handled. Duration 13 ms by bot id=8067941190
+2026-01-28 14:59:23,415 - aiogram.event - INFO - Update id=937160950 is handled. Duration 457 ms by bot id=8067941190
+2026-01-28 14:59:42,530 - aiogram.event - INFO - Update id=937160951 is handled. Duration 393 ms by bot id=8067941190
+2026-01-28 14:59:45,816 - aiogram.event - INFO - Update id=937160952 is handled. Duration 149 ms by bot id=8067941190
+2026-01-28 15:14:52,955 - ai.triggers - INFO - Meta trigger activated: ии
+2026-01-28 15:14:53,184 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 15:14:53,266 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 15:14:53,269 - aiogram.event - INFO - Update id=937160953 is handled. Duration 745 ms by bot id=8067941190
+2026-01-28 15:14:58,231 - aiogram.event - INFO - Update id=937160954 is not handled. Duration 27 ms by bot id=8067941190
+2026-01-28 15:15:03,707 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 15:15:03,966 - __main__ - INFO - Бот остановлен
+2026-01-28 15:15:03,980 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 15:15:03,995 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 15:15:14,226 - __main__ - INFO - ==================================================
+2026-01-28 15:15:14,227 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 15:15:14,228 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 15:15:14,229 - __main__ - INFO - ==================================================
+2026-01-28 15:15:14,229 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 15:15:14,676 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 15:15:44,377 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-28 15:15:44,636 - __main__ - INFO - Бот остановлен
+2026-01-28 15:15:45,103 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 15:15:45,836 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-28 15:16:54,260 - __main__ - INFO - ==================================================
+2026-01-28 15:16:54,261 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 15:16:54,261 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 15:16:54,262 - __main__ - INFO - ==================================================
+2026-01-28 15:16:54,262 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 15:16:54,766 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 15:17:02,067 - aiogram.event - INFO - Update id=937160955 is handled. Duration 793 ms by bot id=8067941190
+2026-01-28 15:17:11,764 - aiogram.event - INFO - Update id=937160956 is handled. Duration 1249 ms by bot id=8067941190
+2026-01-28 15:17:28,194 - aiogram.event - INFO - Update id=937160957 is handled. Duration 358 ms by bot id=8067941190
+2026-01-28 15:17:32,157 - aiogram.event - INFO - Update id=937160958 is handled. Duration 633 ms by bot id=8067941190
+2026-01-28 15:17:35,057 - aiogram.event - INFO - Update id=937160959 is handled. Duration 322 ms by bot id=8067941190
+2026-01-28 15:17:38,907 - aiogram.event - INFO - Update id=937160960 is handled. Duration 321 ms by bot id=8067941190
+2026-01-28 15:17:40,060 - aiogram.event - INFO - Update id=937160961 is handled. Duration 243 ms by bot id=8067941190
+2026-01-28 15:17:41,047 - aiogram.event - INFO - Update id=937160962 is handled. Duration 311 ms by bot id=8067941190
+2026-01-28 15:17:43,197 - aiogram.event - INFO - Update id=937160963 is handled. Duration 613 ms by bot id=8067941190
+2026-01-28 15:17:45,277 - aiogram.event - INFO - Update id=937160964 is not handled. Duration 150 ms by bot id=8067941190
+2026-01-28 15:17:51,189 - aiogram.event - INFO - Update id=937160965 is handled. Duration 303 ms by bot id=8067941190
+2026-01-28 15:17:53,428 - aiogram.event - INFO - Update id=937160966 is not handled. Duration 283 ms by bot id=8067941190
+2026-01-28 15:17:53,430 - aiogram.event - ERROR - Cause exception while process update id=937160966 by bot id=8067941190
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\bot\admin_panel.py", line 912, in admin_notifications_toggle
+    await admin_settings(callback)
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\bot\admin_panel.py", line 643, in admin_settings
+    await callback.message.edit_text(text, reply_markup=get_settings_menu())
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\bot.py", line 494, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-01-28 15:17:57,615 - aiogram.event - INFO - Update id=937160967 is not handled. Duration 279 ms by bot id=8067941190
+2026-01-28 15:17:57,616 - aiogram.event - ERROR - Cause exception while process update id=937160967 by bot id=8067941190
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\bot\admin_panel.py", line 912, in admin_notifications_toggle
+    await admin_settings(callback)
+  File "C:\Users\Luck1y\Desktop\mahiro_bot\bot\admin_panel.py", line 643, in admin_settings
+    await callback.message.edit_text(text, reply_markup=get_settings_menu())
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\bot.py", line 494, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 189, in make_request
+    response = self.check_response(
+        bot=bot, method=method, status_code=resp.status, content=raw_result
+    )
+  File "C:\Users\Luck1y\Desktop\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-01-28 15:18:01,807 - aiogram.event - INFO - Update id=937160968 is handled. Duration 384 ms by bot id=8067941190
+2026-01-28 15:18:03,467 - aiogram.event - INFO - Update id=937160969 is handled. Duration 609 ms by bot id=8067941190
+2026-01-28 15:18:04,995 - aiogram.event - INFO - Update id=937160970 is handled. Duration 290 ms by bot id=8067941190
+2026-01-28 15:18:08,117 - utils.database_export - INFO - Statistics exported to JSON: exports\statistics_20260128_151808.json
+2026-01-28 15:18:08,484 - aiogram.event - INFO - Update id=937160971 is handled. Duration 713 ms by bot id=8067941190
+2026-01-28 15:18:10,762 - utils.database_export - INFO - Users exported to CSV: exports\users_20260128_151810.csv
+2026-01-28 15:18:11,275 - aiogram.event - INFO - Update id=937160972 is handled. Duration 737 ms by bot id=8067941190
+2026-01-28 15:18:14,833 - utils.database_export - INFO - Database exported to exports\mahiro_backup_20260128_151814.zip
+2026-01-28 15:18:15,265 - aiogram.event - INFO - Update id=937160973 is handled. Duration 732 ms by bot id=8067941190
+2026-01-28 15:18:57,524 - aiogram.event - INFO - Update id=937160974 is handled. Duration 464 ms by bot id=8067941190
+2026-01-28 15:28:23,004 - aiogram.event - INFO - Update id=937160975 is handled. Duration 613 ms by bot id=8067941190
+2026-01-28 15:28:39,895 - aiogram.event - INFO - Update id=937160976 is handled. Duration 1683 ms by bot id=8067941190
+2026-01-28 15:28:54,948 - aiogram.event - INFO - Update id=937160977 is handled. Duration 1499 ms by bot id=8067941190
+2026-01-28 21:05:59,361 - __main__ - INFO - ==================================================
+2026-01-28 21:05:59,361 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-28 21:05:59,362 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-28 21:05:59,362 - __main__ - INFO - ==================================================
+2026-01-28 21:05:59,363 - aiogram.dispatcher - INFO - Start polling
+2026-01-28 21:05:59,837 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-28 21:06:01,591 - aiogram.event - INFO - Update id=937160978 is handled. Duration 1593 ms by bot id=8067941190
+2026-01-28 21:06:01,836 - aiogram.event - INFO - Update id=937160980 is handled. Duration 1836 ms by bot id=8067941190
+2026-01-28 21:06:02,768 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:06:03,348 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:06:04,017 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:06:04,104 - memory.mood_system - INFO - Настроение для 7228311090: счастливая
+2026-01-28 21:06:04,844 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:06:04,968 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.10
+2026-01-28 21:06:05,011 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.15
+2026-01-28 21:06:05,018 - bot.handlers - INFO - Response sent to 7228311090: mood=обычное, trust=0.05
+2026-01-28 21:06:05,021 - aiogram.event - INFO - Update id=937160982 is handled. Duration 5020 ms by bot id=8067941190
+2026-01-28 21:06:05,028 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.15
+2026-01-28 21:06:05,037 - bot.handlers - INFO - Response sent to 7228311090: mood=обычное, trust=0.05
+2026-01-28 21:06:05,052 - aiogram.event - INFO - Update id=937160983 is handled. Duration 5050 ms by bot id=8067941190
+2026-01-28 21:06:05,060 - utils.statistics - ERROR - Ошибка загрузки статистики: Expecting value: line 1 column 1 (char 0)
+2026-01-28 21:06:05,066 - bot.handlers - INFO - Response sent to 7228311090: mood=обычное, trust=0.05
+2026-01-28 21:06:05,069 - aiogram.event - INFO - Update id=937160981 is handled. Duration 5069 ms by bot id=8067941190
+2026-01-28 21:06:05,075 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.20
+2026-01-28 21:06:05,081 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.05
+2026-01-28 21:06:05,083 - aiogram.event - INFO - Update id=937160979 is handled. Duration 5084 ms by bot id=8067941190
+2026-01-28 21:06:24,810 - aiogram.event - INFO - Update id=937160984 is handled. Duration 1572 ms by bot id=8067941190
+2026-01-28 21:06:37,013 - aiogram.event - INFO - Update id=937160985 is handled. Duration 171 ms by bot id=8067941190
+2026-01-28 21:06:43,244 - aiogram.event - INFO - Update id=937160986 is handled. Duration 219 ms by bot id=8067941190
+2026-01-28 21:06:47,481 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-28 21:06:47,482 - aiogram.event - INFO - Update id=937160987 is handled. Duration 202 ms by bot id=8067941190
+2026-01-28 21:06:51,706 - aiogram.event - INFO - Update id=937160988 is handled. Duration 1175 ms by bot id=8067941190
+2026-01-28 21:06:55,967 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:06:56,251 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:06:56,272 - bot.handlers - INFO - Response sent to 7955905703: mood=обычное, trust=1.00
+2026-01-28 21:06:56,277 - aiogram.event - INFO - Update id=937160989 is handled. Duration 1663 ms by bot id=8067941190
+2026-01-28 21:07:15,966 - memory.mood_system - INFO - Настроение для 7955905703: счастливая
+2026-01-28 21:07:16,880 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:07:17,176 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:07:17,228 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-01-28 21:07:17,248 - aiogram.event - INFO - Update id=937160990 is handled. Duration 1716 ms by bot id=8067941190
+2026-01-28 21:07:58,325 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:07:58,635 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:07:58,672 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-01-28 21:07:58,676 - aiogram.event - INFO - Update id=937160991 is handled. Duration 3051 ms by bot id=8067941190
+2026-01-28 21:08:07,871 - memory.mood_system - INFO - Настроение для 7955905703: раздражённая
+2026-01-28 21:08:08,736 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:08:09,157 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:08:09,171 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:08:09,173 - aiogram.event - INFO - Update id=937160992 is handled. Duration 1527 ms by bot id=8067941190
+2026-01-28 21:08:13,362 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:08:13,593 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:08:13,605 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:08:13,606 - aiogram.event - INFO - Update id=937160993 is handled. Duration 1042 ms by bot id=8067941190
+2026-01-28 21:08:21,441 - ai.triggers - INFO - Activity trigger activated: аниме
+2026-01-28 21:08:21,645 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:08:21,665 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:08:21,668 - aiogram.event - INFO - Update id=937160994 is handled. Duration 421 ms by bot id=8067941190
+2026-01-28 21:08:26,507 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:08:26,765 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:08:26,799 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:08:26,835 - aiogram.event - INFO - Update id=937160995 is handled. Duration 1488 ms by bot id=8067941190
+2026-01-28 21:08:36,694 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:08:36,926 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:08:36,944 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:08:36,948 - aiogram.event - INFO - Update id=937160996 is handled. Duration 1472 ms by bot id=8067941190
+2026-01-28 21:08:47,490 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:08:47,728 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:08:47,749 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:08:47,753 - aiogram.event - INFO - Update id=937160997 is handled. Duration 1516 ms by bot id=8067941190
+2026-01-28 21:09:14,359 - ai.triggers - INFO - Activity trigger activated: аниме
+2026-01-28 21:09:14,555 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:09:14,575 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:09:14,580 - aiogram.event - INFO - Update id=937160998 is handled. Duration 656 ms by bot id=8067941190
+2026-01-28 21:09:41,253 - ai.triggers - INFO - Activity trigger activated: аниме
+2026-01-28 21:09:41,408 - media.image_manager - WARNING - Нет картинок для настроения: раздражённая
+2026-01-28 21:09:41,413 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:09:41,414 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:09:41,501 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:09:41,524 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:09:41,526 - aiogram.event - INFO - Update id=937160999 is handled. Duration 697 ms by bot id=8067941190
+2026-01-28 21:09:46,296 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:09:46,696 - media.image_manager - WARNING - Нет картинок для настроения: раздражённая
+2026-01-28 21:09:46,700 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:09:46,703 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:09:46,763 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:09:46,779 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:09:46,781 - aiogram.event - INFO - Update id=937161000 is handled. Duration 1573 ms by bot id=8067941190
+2026-01-28 21:09:59,683 - memory.mood_system - INFO - Настроение для 7955905703: счастливая
+2026-01-28 21:09:59,685 - ai.triggers - INFO - Appearance trigger activated: милая
+2026-01-28 21:09:59,847 - media.image_manager - WARNING - Нет картинок для настроения: счастливая
+2026-01-28 21:09:59,853 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:09:59,854 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:09:59,912 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:09:59,926 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:09:59,928 - aiogram.event - INFO - Update id=937161001 is handled. Duration 416 ms by bot id=8067941190
+2026-01-28 21:10:35,715 - memory.mood_system - INFO - Случайная смена настроения на: грустная
+2026-01-28 21:10:35,738 - memory.mood_system - INFO - Настроение для 7955905703: грустная
+2026-01-28 21:10:36,646 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:10:36,867 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:10:36,893 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:10:36,895 - aiogram.event - INFO - Update id=937161002 is handled. Duration 1578 ms by bot id=8067941190
+2026-01-28 21:11:22,990 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:11:23,175 - media.image_manager - WARNING - Нет картинок для настроения: грустная
+2026-01-28 21:11:23,182 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:11:23,184 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:11:23,267 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:11:23,284 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:11:23,286 - aiogram.event - INFO - Update id=937161003 is handled. Duration 2006 ms by bot id=8067941190
+2026-01-28 21:11:43,316 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:11:43,542 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:11:43,567 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:11:43,572 - aiogram.event - INFO - Update id=937161004 is handled. Duration 1660 ms by bot id=8067941190
+2026-01-28 21:12:02,522 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:12:02,722 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:12:02,727 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:12:02,727 - aiogram.event - INFO - Update id=937161005 is handled. Duration 1438 ms by bot id=8067941190
+2026-01-28 21:12:29,492 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:12:29,897 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:12:29,903 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:12:29,903 - aiogram.event - INFO - Update id=937161006 is handled. Duration 1975 ms by bot id=8067941190
+2026-01-28 21:12:40,925 - ai.triggers - INFO - Character trigger activated: махиро
+2026-01-28 21:12:41,125 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:12:41,146 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:12:41,147 - aiogram.event - INFO - Update id=937161007 is handled. Duration 474 ms by bot id=8067941190
+2026-01-28 21:12:52,776 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:12:53,148 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:12:53,166 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:12:53,168 - aiogram.event - INFO - Update id=937161008 is handled. Duration 1407 ms by bot id=8067941190
+2026-01-28 21:14:02,764 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:14:02,971 - media.image_manager - WARNING - Нет картинок для настроения: грустная
+2026-01-28 21:14:02,978 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:14:02,980 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:14:03,057 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:14:03,080 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-28 21:14:03,082 - aiogram.event - INFO - Update id=937161009 is handled. Duration 2177 ms by bot id=8067941190
+2026-01-28 21:14:23,959 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:14:24,135 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:14:24,142 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:14:24,143 - aiogram.event - INFO - Update id=937161010 is handled. Duration 1843 ms by bot id=8067941190
+2026-01-28 21:16:11,420 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:16:11,742 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:16:11,764 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:16:11,766 - aiogram.event - INFO - Update id=937161011 is handled. Duration 1939 ms by bot id=8067941190
+2026-01-28 21:16:30,158 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:16:30,430 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:16:30,448 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:16:30,449 - aiogram.event - INFO - Update id=937161012 is handled. Duration 1859 ms by bot id=8067941190
+2026-01-28 21:17:27,452 - ai.triggers - INFO - State trigger activated: грустно
+2026-01-28 21:17:27,647 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:17:27,670 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:17:27,674 - aiogram.event - INFO - Update id=937161013 is handled. Duration 628 ms by bot id=8067941190
+2026-01-28 21:18:55,913 - ai.triggers - INFO - State trigger activated: грустно
+2026-01-28 21:18:56,102 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:18:56,121 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:18:56,128 - aiogram.event - INFO - Update id=937161014 is handled. Duration 615 ms by bot id=8067941190
+2026-01-28 21:19:04,995 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:19:05,205 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:19:05,223 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:19:05,225 - aiogram.event - INFO - Update id=937161015 is handled. Duration 2062 ms by bot id=8067941190
+2026-01-28 21:19:32,444 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:19:32,768 - media.image_manager - WARNING - Нет картинок для настроения: раздражённая
+2026-01-28 21:19:32,776 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:19:32,781 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:19:32,838 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:19:32,844 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:19:32,844 - aiogram.event - INFO - Update id=937161016 is handled. Duration 1836 ms by bot id=8067941190
+2026-01-28 21:19:41,578 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:19:41,781 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:19:41,796 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:19:41,798 - aiogram.event - INFO - Update id=937161017 is handled. Duration 1267 ms by bot id=8067941190
+2026-01-28 21:19:55,458 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:19:55,681 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:19:55,698 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:19:55,707 - aiogram.event - INFO - Update id=937161018 is handled. Duration 1819 ms by bot id=8067941190
+2026-01-28 21:20:06,818 - ai.triggers - INFO - Activity trigger activated: аниме
+2026-01-28 21:20:07,067 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:20:07,087 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:20:07,089 - aiogram.event - INFO - Update id=937161019 is handled. Duration 548 ms by bot id=8067941190
+2026-01-28 21:20:21,551 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:20:21,822 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:20:21,850 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:20:21,853 - aiogram.event - INFO - Update id=937161020 is handled. Duration 1705 ms by bot id=8067941190
+2026-01-28 21:20:34,332 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:20:34,571 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:20:34,587 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:20:34,587 - aiogram.event - INFO - Update id=937161021 is handled. Duration 1179 ms by bot id=8067941190
+2026-01-28 21:20:46,027 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:20:46,210 - media.image_manager - WARNING - Нет картинок для настроения: раздражённая
+2026-01-28 21:20:46,217 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 21:20:46,219 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 21:20:46,325 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:20:46,366 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:20:46,367 - aiogram.event - INFO - Update id=937161022 is handled. Duration 1631 ms by bot id=8067941190
+2026-01-28 21:21:07,384 - ai.triggers - INFO - Character trigger activated: махиро
+2026-01-28 21:21:07,628 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:21:07,646 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-01-28 21:21:07,648 - aiogram.event - INFO - Update id=937161023 is handled. Duration 718 ms by bot id=8067941190
+2026-01-28 21:21:28,579 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:21:28,990 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:21:29,007 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:21:29,008 - aiogram.event - INFO - Update id=937161024 is handled. Duration 1922 ms by bot id=8067941190
+2026-01-28 21:22:24,972 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 21:22:25,293 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-28 21:22:25,353 - bot.handlers - INFO - Response sent to 7955905703: mood=раздражённая, trust=1.00
+2026-01-28 21:22:25,369 - aiogram.event - INFO - Update id=937161025 is handled. Duration 2495 ms by bot id=8067941190
+2026-01-28 21:24:21,318 - aiogram.event - INFO - Update id=937161026 is handled. Duration 518 ms by bot id=8067941190
+2026-01-28 21:24:25,522 - aiogram.event - INFO - Update id=937161027 is handled. Duration 182 ms by bot id=8067941190
+2026-01-28 21:24:27,703 - aiogram.event - INFO - Update id=937161028 is handled. Duration 138 ms by bot id=8067941190
+2026-01-28 21:24:27,955 - aiogram.event - INFO - Update id=937161029 is handled. Duration 134 ms by bot id=8067941190
+2026-01-28 21:24:28,220 - aiogram.event - INFO - Update id=937161030 is handled. Duration 135 ms by bot id=8067941190
+2026-01-28 21:24:28,506 - aiogram.event - INFO - Update id=937161031 is handled. Duration 144 ms by bot id=8067941190
+2026-01-28 21:24:28,791 - aiogram.event - INFO - Update id=937161032 is handled. Duration 200 ms by bot id=8067941190
+2026-01-28 21:24:28,992 - aiogram.event - INFO - Update id=937161033 is handled. Duration 206 ms by bot id=8067941190
+2026-01-28 21:24:29,321 - aiogram.event - INFO - Update id=937161034 is handled. Duration 217 ms by bot id=8067941190
+2026-01-28 21:24:29,624 - aiogram.event - INFO - Update id=937161035 is handled. Duration 416 ms by bot id=8067941190
+2026-01-28 21:24:30,795 - aiogram.event - INFO - Update id=937161036 is handled. Duration 159 ms by bot id=8067941190
+2026-01-28 21:24:32,180 - aiogram.event - INFO - Update id=937161037 is handled. Duration 243 ms by bot id=8067941190
+2026-01-28 21:24:32,376 - aiogram.event - INFO - Update id=937161038 is handled. Duration 188 ms by bot id=8067941190
+2026-01-28 21:24:32,589 - aiogram.event - INFO - Update id=937161039 is handled. Duration 151 ms by bot id=8067941190
+2026-01-28 21:24:32,835 - aiogram.event - INFO - Update id=937161040 is handled. Duration 133 ms by bot id=8067941190
+2026-01-28 21:24:33,153 - aiogram.event - INFO - Update id=937161041 is handled. Duration 209 ms by bot id=8067941190
+2026-01-28 21:24:33,441 - aiogram.event - INFO - Update id=937161042 is handled. Duration 223 ms by bot id=8067941190
+2026-01-28 21:24:33,796 - aiogram.event - INFO - Update id=937161043 is handled. Duration 351 ms by bot id=8067941190
+2026-01-28 21:24:34,072 - aiogram.event - INFO - Update id=937161044 is handled. Duration 368 ms by bot id=8067941190
+2026-01-28 21:24:34,220 - aiogram.event - INFO - Update id=937161045 is handled. Duration 297 ms by bot id=8067941190
+2026-01-28 21:24:34,354 - aiogram.event - INFO - Update id=937161046 is handled. Duration 200 ms by bot id=8067941190
+2026-01-28 21:24:34,491 - aiogram.event - INFO - Update id=937161047 is handled. Duration 140 ms by bot id=8067941190
+2026-01-28 21:24:34,721 - aiogram.event - INFO - Update id=937161048 is handled. Duration 149 ms by bot id=8067941190
+2026-01-28 21:24:34,974 - aiogram.event - INFO - Update id=937161049 is handled. Duration 179 ms by bot id=8067941190
+2026-01-28 21:24:35,225 - aiogram.event - INFO - Update id=937161050 is handled. Duration 196 ms by bot id=8067941190
+2026-01-28 21:24:35,462 - aiogram.event - INFO - Update id=937161051 is handled. Duration 183 ms by bot id=8067941190
+2026-01-28 21:24:35,710 - aiogram.event - INFO - Update id=937161052 is handled. Duration 227 ms by bot id=8067941190
+2026-01-28 21:24:35,876 - aiogram.event - INFO - Update id=937161053 is handled. Duration 182 ms by bot id=8067941190
+2026-01-28 21:24:36,104 - aiogram.event - INFO - Update id=937161054 is handled. Duration 179 ms by bot id=8067941190
+2026-01-28 21:24:36,310 - aiogram.event - INFO - Update id=937161055 is handled. Duration 183 ms by bot id=8067941190
+2026-01-28 21:24:36,517 - aiogram.event - INFO - Update id=937161056 is handled. Duration 179 ms by bot id=8067941190
+2026-01-28 21:24:36,764 - aiogram.event - INFO - Update id=937161057 is handled. Duration 184 ms by bot id=8067941190
+2026-01-28 21:24:37,031 - aiogram.event - INFO - Update id=937161058 is handled. Duration 203 ms by bot id=8067941190
+2026-01-28 21:24:37,243 - aiogram.event - INFO - Update id=937161059 is handled. Duration 216 ms by bot id=8067941190
+2026-01-28 21:24:37,438 - aiogram.event - INFO - Update id=937161060 is handled. Duration 170 ms by bot id=8067941190
+2026-01-28 21:24:37,628 - aiogram.event - INFO - Update id=937161061 is handled. Duration 168 ms by bot id=8067941190
+2026-01-28 21:24:37,810 - aiogram.event - INFO - Update id=937161062 is handled. Duration 150 ms by bot id=8067941190
+2026-01-28 21:24:38,013 - aiogram.event - INFO - Update id=937161063 is handled. Duration 145 ms by bot id=8067941190
+2026-01-28 21:24:38,209 - aiogram.event - INFO - Update id=937161064 is handled. Duration 157 ms by bot id=8067941190
+2026-01-28 21:24:38,410 - aiogram.event - INFO - Update id=937161065 is handled. Duration 207 ms by bot id=8067941190
+2026-01-28 21:24:38,622 - aiogram.event - INFO - Update id=937161066 is handled. Duration 162 ms by bot id=8067941190
+2026-01-28 21:24:38,852 - aiogram.event - INFO - Update id=937161067 is handled. Duration 191 ms by bot id=8067941190
+2026-01-28 21:24:39,046 - aiogram.event - INFO - Update id=937161068 is handled. Duration 156 ms by bot id=8067941190
+2026-01-28 21:24:39,283 - aiogram.event - INFO - Update id=937161069 is handled. Duration 171 ms by bot id=8067941190
+2026-01-28 21:24:39,519 - aiogram.event - INFO - Update id=937161070 is handled. Duration 202 ms by bot id=8067941190
+2026-01-28 21:24:39,803 - aiogram.event - INFO - Update id=937161071 is handled. Duration 276 ms by bot id=8067941190
+2026-01-28 21:24:39,973 - aiogram.event - INFO - Update id=937161072 is handled. Duration 144 ms by bot id=8067941190
+2026-01-28 21:24:40,183 - aiogram.event - INFO - Update id=937161073 is handled. Duration 200 ms by bot id=8067941190
+2026-01-28 21:24:45,051 - aiogram.event - INFO - Update id=937161074 is handled. Duration 164 ms by bot id=8067941190
+2026-01-28 21:24:58,117 - aiogram.event - INFO - Update id=937161075 is handled. Duration 183 ms by bot id=8067941190
+2026-01-28 21:50:44,900 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-01-28 21:50:44,902 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-01-28 21:51:00,889 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8067941190)
+2026-01-28 21:51:10,676 - aiogram.event - INFO - Update id=937161076 is handled. Duration 398 ms by bot id=8067941190
+2026-01-28 21:51:13,755 - aiogram.event - INFO - Update id=937161077 is handled. Duration 396 ms by bot id=8067941190
+2026-01-28 21:51:35,268 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 4 success, 0 failed
+2026-01-28 21:51:35,272 - aiogram.event - INFO - Update id=937161078 is handled. Duration 1226 ms by bot id=8067941190
+2026-01-28 22:58:04,615 - aiogram.event - INFO - Update id=937161079 is handled. Duration 380 ms by bot id=8067941190
+2026-01-28 22:58:07,868 - aiogram.event - INFO - Update id=937161080 is handled. Duration 440 ms by bot id=8067941190
+2026-01-28 22:58:18,097 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 22:58:18,265 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.25
+2026-01-28 22:58:18,267 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.20
+2026-01-28 22:58:18,268 - aiogram.event - INFO - Update id=937161081 is handled. Duration 2139 ms by bot id=8067941190
+2026-01-28 22:58:30,797 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 22:58:30,941 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.30
+2026-01-28 22:58:30,944 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.25
+2026-01-28 22:58:30,944 - aiogram.event - INFO - Update id=937161082 is handled. Duration 1114 ms by bot id=8067941190
+2026-01-28 22:58:38,605 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 22:58:38,752 - media.image_manager - WARNING - Нет картинок для настроения: счастливая
+2026-01-28 22:58:38,753 - media.image_manager - WARNING - Нет картинок вообще!
+2026-01-28 22:58:38,753 - media.image_manager - WARNING - Не удалось найти картинку для отправки
+2026-01-28 22:58:38,764 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.35
+2026-01-28 22:58:38,766 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.30
+2026-01-28 22:58:38,767 - aiogram.event - INFO - Update id=937161083 is handled. Duration 2085 ms by bot id=8067941190
+2026-01-28 22:58:55,600 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 22:58:55,765 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.40
+2026-01-28 22:58:55,768 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.35
+2026-01-28 22:58:55,768 - aiogram.event - INFO - Update id=937161084 is handled. Duration 1522 ms by bot id=8067941190
+2026-01-28 22:58:59,857 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 22:59:00,063 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.45
+2026-01-28 22:59:00,066 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.40
+2026-01-28 22:59:00,067 - aiogram.event - INFO - Update id=937161085 is handled. Duration 1045 ms by bot id=8067941190
+2026-01-28 23:08:06,070 - aiogram.event - INFO - Update id=937161086 is handled. Duration 481 ms by bot id=8067941190
+2026-01-28 23:08:09,093 - aiogram.event - INFO - Update id=937161087 is handled. Duration 285 ms by bot id=8067941190
+2026-01-28 23:08:19,052 - aiogram.event - INFO - Update id=937161088 is handled. Duration 1159 ms by bot id=8067941190
+2026-01-28 23:08:25,893 - aiogram.event - INFO - Update id=937161089 is handled. Duration 139 ms by bot id=8067941190
+2026-01-28 23:12:59,555 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-28 23:12:59,724 - memory.trust_system - INFO - Trust для пользователя 7228311090: 0.50
+2026-01-28 23:12:59,727 - bot.handlers - INFO - Response sent to 7228311090: mood=счастливая, trust=0.45
+2026-01-28 23:12:59,727 - aiogram.event - INFO - Update id=937161090 is handled. Duration 1692 ms by bot id=8067941190
+2026-01-29 00:40:04,596 - aiogram.event - INFO - Update id=937161091 is handled. Duration 1353 ms by bot id=8067941190
+2026-01-29 00:40:08,085 - aiogram.event - INFO - Update id=937161092 is handled. Duration 1254 ms by bot id=8067941190
+2026-01-29 00:40:16,472 - aiogram.event - INFO - Update id=937161093 is handled. Duration 1148 ms by bot id=8067941190
+2026-01-29 00:41:01,609 - aiogram.event - INFO - Update id=937161094 is handled. Duration 1517 ms by bot id=8067941190
+2026-01-29 08:39:49,786 - __main__ - INFO - ==================================================
+2026-01-29 08:39:49,786 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-29 08:39:49,786 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-29 08:39:49,787 - __main__ - INFO - ==================================================
+2026-01-29 08:39:49,787 - aiogram.dispatcher - INFO - Start polling
+2026-01-29 08:39:50,429 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-29 08:39:52,285 - aiogram.event - INFO - Update id=937161095 is handled. Duration 1612 ms by bot id=8067941190
+2026-01-29 08:40:24,787 - aiogram.event - INFO - Update id=937161096 is handled. Duration 1482 ms by bot id=8067941190
+2026-01-29 08:40:52,474 - aiogram.event - INFO - Update id=937161097 is handled. Duration 491 ms by bot id=8067941190
+2026-01-29 08:41:02,269 - aiogram.event - INFO - Update id=937161098 is handled. Duration 414 ms by bot id=8067941190
+2026-01-29 08:43:25,742 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-29 08:43:25,742 - aiogram.event - INFO - Update id=937161099 is handled. Duration 542 ms by bot id=8067941190
+2026-01-29 08:43:32,574 - aiogram.event - INFO - Update id=937161100 is handled. Duration 388 ms by bot id=8067941190
+2026-01-29 08:43:58,558 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 4 success, 0 failed
+2026-01-29 08:43:58,560 - aiogram.event - INFO - Update id=937161101 is handled. Duration 1340 ms by bot id=8067941190
+2026-01-29 08:44:07,880 - aiogram.event - INFO - Update id=937161102 is handled. Duration 1214 ms by bot id=8067941190
+2026-01-29 08:44:18,964 - aiogram.event - INFO - Update id=937161103 is handled. Duration 190 ms by bot id=8067941190
+2026-01-29 08:45:18,838 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 08:45:19,094 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-29 08:45:19,112 - bot.handlers - INFO - Response sent to 7955905703: mood=грустная, trust=1.00
+2026-01-29 08:45:19,118 - aiogram.event - INFO - Update id=937161104 is handled. Duration 2214 ms by bot id=8067941190
+2026-01-29 08:45:30,576 - memory.mood_system - INFO - Случайная смена настроения на: счастливая
+2026-01-29 08:45:30,594 - memory.mood_system - INFO - Настроение для 7955905703: счастливая
+2026-01-29 08:45:31,749 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 08:45:32,009 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-29 08:45:32,051 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-01-29 08:45:32,056 - aiogram.event - INFO - Update id=937161105 is handled. Duration 1822 ms by bot id=8067941190
+2026-01-29 08:45:39,260 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 08:45:39,479 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-29 08:45:39,499 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-01-29 08:45:39,502 - aiogram.event - INFO - Update id=937161106 is handled. Duration 1708 ms by bot id=8067941190
+2026-01-29 08:46:37,086 - aiogram.event - INFO - Update id=937161107 is handled. Duration 613 ms by bot id=8067941190
+2026-01-29 08:46:50,213 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-29 08:46:50,500 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-01-29 08:46:50,504 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-01-29 08:46:50,505 - aiogram.event - INFO - Update id=937161108 is handled. Duration 6792 ms by bot id=8067941190
+2026-01-29 20:51:58,815 - __main__ - INFO - ==================================================
+2026-01-29 20:51:58,815 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-29 20:51:58,815 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-29 20:51:58,815 - __main__ - INFO - ==================================================
+2026-01-29 20:51:58,816 - aiogram.dispatcher - INFO - Start polling
+2026-01-29 20:51:59,290 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-29 20:52:13,381 - aiogram.event - INFO - Update id=937161109 is handled. Duration 1127 ms by bot id=8067941190
+2026-01-29 20:52:17,026 - aiogram.event - INFO - Update id=937161110 is handled. Duration 190 ms by bot id=8067941190
+2026-01-29 20:52:20,708 - aiogram.event - INFO - Update id=937161111 is handled. Duration 725 ms by bot id=8067941190
+2026-01-29 20:52:29,340 - aiogram.event - INFO - Update id=937161112 is handled. Duration 1735 ms by bot id=8067941190
+2026-01-29 20:52:34,621 - aiogram.event - INFO - Update id=937161113 is handled. Duration 1713 ms by bot id=8067941190
+2026-01-29 20:52:43,248 - aiogram.event - INFO - Update id=937161114 is handled. Duration 283 ms by bot id=8067941190
+2026-01-29 20:52:44,429 - aiogram.event - INFO - Update id=937161115 is handled. Duration 285 ms by bot id=8067941190
+2026-01-29 20:53:25,209 - bot.admin_panel - WARNING - Failed to send broadcast to 7766141934: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2026-01-29 20:53:25,211 - bot.admin_panel - WARNING - Failed to send broadcast to 7955905703: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2026-01-29 20:53:25,217 - bot.admin_panel - WARNING - Failed to send broadcast to 7228311090: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2026-01-29 20:53:25,226 - bot.admin_panel - WARNING - Failed to send broadcast to 8036809872: 1 validation error for SendMessage
+text
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.9/v/string_type
+2026-01-29 20:53:25,382 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 0 success, 4 failed
+2026-01-29 20:53:25,385 - aiogram.event - INFO - Update id=937161116 is handled. Duration 568 ms by bot id=8067941190
+2026-01-30 07:10:01,990 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-01-30 07:10:01,992 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-01-30 07:10:14,226 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8067941190)
+2026-01-31 13:44:04,658 - __main__ - INFO - ==================================================
+2026-01-31 13:44:04,659 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-31 13:44:04,659 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-31 13:44:04,659 - __main__ - INFO - ==================================================
+2026-01-31 13:44:04,660 - aiogram.dispatcher - INFO - Start polling
+2026-01-31 13:44:05,201 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-31 13:44:09,001 - aiogram.event - INFO - Update id=937161146 is handled. Duration 3627 ms by bot id=8067941190
+2026-01-31 13:44:09,075 - aiogram.event - INFO - Update id=937161145 is handled. Duration 3703 ms by bot id=8067941190
+2026-01-31 13:44:09,091 - aiogram.event - INFO - Update id=937161148 is handled. Duration 3714 ms by bot id=8067941190
+2026-01-31 13:44:09,122 - aiogram.event - INFO - Update id=937161147 is handled. Duration 3745 ms by bot id=8067941190
+2026-01-31 13:45:12,463 - aiogram.event - INFO - Update id=937161149 is handled. Duration 575 ms by bot id=8067941190
+2026-01-31 13:45:20,979 - aiogram.event - INFO - Update id=937161150 is handled. Duration 141 ms by bot id=8067941190
+2026-01-31 13:45:22,184 - aiogram.event - INFO - Update id=937161151 is handled. Duration 312 ms by bot id=8067941190
+2026-01-31 13:45:23,580 - aiogram.event - INFO - Update id=937161152 is handled. Duration 288 ms by bot id=8067941190
+2026-01-31 13:45:24,679 - aiogram.event - INFO - Update id=937161153 is handled. Duration 275 ms by bot id=8067941190
+2026-01-31 13:45:26,127 - aiogram.event - INFO - Update id=937161154 is handled. Duration 475 ms by bot id=8067941190
+2026-01-31 13:45:26,810 - aiogram.event - INFO - Update id=937161155 is handled. Duration 307 ms by bot id=8067941190
+2026-01-31 13:45:28,388 - aiogram.event - INFO - Update id=937161156 is handled. Duration 280 ms by bot id=8067941190
+2026-01-31 13:45:29,577 - aiogram.event - INFO - Update id=937161157 is handled. Duration 369 ms by bot id=8067941190
+2026-01-31 13:45:34,887 - aiogram.event - INFO - Update id=937161158 is handled. Duration 326 ms by bot id=8067941190
+2026-01-31 13:45:36,916 - aiogram.event - INFO - Update id=937161159 is handled. Duration 791 ms by bot id=8067941190
+2026-01-31 13:45:37,941 - aiogram.event - INFO - Update id=937161160 is handled. Duration 272 ms by bot id=8067941190
+2026-01-31 13:45:39,478 - aiogram.event - INFO - Update id=937161161 is handled. Duration 353 ms by bot id=8067941190
+2026-01-31 13:45:41,295 - aiogram.event - INFO - Update id=937161162 is handled. Duration 555 ms by bot id=8067941190
+2026-01-31 13:45:44,785 - bot.admin_panel - INFO - Admin 7955905703 added 5144365242 to whitelist
+2026-01-31 13:45:44,786 - aiogram.event - INFO - Update id=937161163 is handled. Duration 344 ms by bot id=8067941190
+2026-01-31 13:45:49,207 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-31 13:45:49,207 - aiogram.event - INFO - Update id=937161164 is handled. Duration 148 ms by bot id=8067941190
+2026-01-31 13:45:53,245 - aiogram.event - INFO - Update id=937161165 is handled. Duration 175 ms by bot id=8067941190
+2026-01-31 13:46:01,608 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-31 13:46:01,864 - __main__ - INFO - Бот остановлен
+2026-01-31 13:46:01,865 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-31 13:46:01,866 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-31 13:46:08,879 - __main__ - INFO - ==================================================
+2026-01-31 13:46:08,880 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-31 13:46:08,880 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-31 13:46:08,881 - __main__ - INFO - ==================================================
+2026-01-31 13:46:08,881 - aiogram.dispatcher - INFO - Start polling
+2026-01-31 13:46:09,495 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-31 13:46:21,683 - aiogram.event - INFO - Update id=937161166 is handled. Duration 515 ms by bot id=8067941190
+2026-01-31 13:46:33,054 - aiogram.event - INFO - Update id=937161167 is handled. Duration 206 ms by bot id=8067941190
+2026-01-31 13:46:34,364 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 13:46:34,572 - memory.trust_system - INFO - Trust для пользователя 5144365242: 0.05
+2026-01-31 13:46:34,576 - bot.handlers - INFO - Response sent to 5144365242: mood=обычное, trust=0.00
+2026-01-31 13:46:34,576 - aiogram.event - INFO - Update id=937161168 is handled. Duration 1529 ms by bot id=8067941190
+2026-01-31 13:46:44,415 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 13:46:44,626 - memory.trust_system - INFO - Trust для пользователя 5144365242: 0.10
+2026-01-31 13:46:44,629 - bot.handlers - INFO - Response sent to 5144365242: mood=обычное, trust=0.05
+2026-01-31 13:46:44,629 - aiogram.event - INFO - Update id=937161169 is handled. Duration 1237 ms by bot id=8067941190
+2026-01-31 13:47:09,075 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 13:47:09,244 - memory.trust_system - INFO - Trust для пользователя 5144365242: 0.15
+2026-01-31 13:47:09,251 - bot.handlers - INFO - Response sent to 5144365242: mood=обычное, trust=0.10
+2026-01-31 13:47:09,251 - aiogram.event - INFO - Update id=937161170 is handled. Duration 1444 ms by bot id=8067941190
+2026-01-31 13:47:56,639 - aiogram.event - INFO - Update id=937161171 is handled. Duration 421 ms by bot id=8067941190
+2026-01-31 13:48:10,689 - aiogram.event - INFO - Update id=937161172 is handled. Duration 429 ms by bot id=8067941190
+2026-01-31 13:48:14,759 - aiogram.event - INFO - Update id=937161173 is handled. Duration 278 ms by bot id=8067941190
+2026-01-31 13:48:18,346 - aiogram.event - INFO - Update id=937161174 is handled. Duration 383 ms by bot id=8067941190
+2026-01-31 13:48:30,601 - aiogram.event - INFO - Update id=937161175 is handled. Duration 280 ms by bot id=8067941190
+2026-01-31 13:48:31,915 - aiogram.event - INFO - Update id=937161176 is handled. Duration 341 ms by bot id=8067941190
+2026-01-31 13:48:35,345 - aiogram.event - INFO - Update id=937161177 is handled. Duration 385 ms by bot id=8067941190
+2026-01-31 13:48:37,400 - aiogram.event - INFO - Update id=937161178 is handled. Duration 235 ms by bot id=8067941190
+2026-01-31 13:48:38,531 - aiogram.event - INFO - Update id=937161179 is handled. Duration 239 ms by bot id=8067941190
+2026-01-31 13:48:39,388 - aiogram.event - INFO - Update id=937161180 is handled. Duration 253 ms by bot id=8067941190
+2026-01-31 13:48:40,041 - aiogram.event - INFO - Update id=937161181 is handled. Duration 283 ms by bot id=8067941190
+2026-01-31 13:48:55,940 - aiogram.event - INFO - Update id=937161182 is handled. Duration 389 ms by bot id=8067941190
+2026-01-31 13:48:57,312 - aiogram.event - INFO - Update id=937161183 is handled. Duration 263 ms by bot id=8067941190
+2026-01-31 13:48:59,681 - aiogram.event - INFO - Update id=937161184 is handled. Duration 322 ms by bot id=8067941190
+2026-01-31 13:49:04,931 - aiogram.event - INFO - Update id=937161185 is handled. Duration 290 ms by bot id=8067941190
+2026-01-31 13:49:06,836 - aiogram.event - INFO - Update id=937161186 is handled. Duration 488 ms by bot id=8067941190
+2026-01-31 13:49:09,649 - bot.admin_panel - INFO - Admin 7955905703 removed 5144365242 from whitelist
+2026-01-31 13:49:09,650 - aiogram.event - INFO - Update id=937161187 is handled. Duration 136 ms by bot id=8067941190
+2026-01-31 13:49:11,253 - bot.admin_panel - INFO - Config reloaded by admin 7955905703
+2026-01-31 13:49:11,253 - aiogram.event - INFO - Update id=937161188 is handled. Duration 161 ms by bot id=8067941190
+2026-01-31 13:49:14,293 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-31 13:49:14,554 - __main__ - INFO - Бот остановлен
+2026-01-31 13:49:14,555 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-31 13:49:14,557 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-01-31 13:51:10,060 - __main__ - INFO - ==================================================
+2026-01-31 13:51:10,061 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-01-31 13:51:10,061 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-01-31 13:51:10,062 - __main__ - INFO - ==================================================
+2026-01-31 13:51:10,062 - aiogram.dispatcher - INFO - Start polling
+2026-01-31 13:51:10,514 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-01-31 13:51:10,692 - aiogram.event - INFO - Update id=937161192 is handled. Duration 5 ms by bot id=8067941190
+2026-01-31 13:51:11,220 - aiogram.event - INFO - Update id=937161189 is handled. Duration 534 ms by bot id=8067941190
+2026-01-31 13:51:11,274 - aiogram.event - INFO - Update id=937161190 is handled. Duration 587 ms by bot id=8067941190
+2026-01-31 13:51:11,284 - aiogram.event - INFO - Update id=937161191 is handled. Duration 597 ms by bot id=8067941190
+2026-01-31 13:52:00,416 - aiogram.event - INFO - Update id=937161193 is handled. Duration 1431 ms by bot id=8067941190
+2026-01-31 13:52:23,568 - aiogram.event - INFO - Update id=937161194 is handled. Duration 500 ms by bot id=8067941190
+2026-01-31 13:52:25,610 - aiogram.event - INFO - Update id=937161195 is handled. Duration 668 ms by bot id=8067941190
+2026-01-31 13:52:39,208 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 5 success, 0 failed
+2026-01-31 13:52:39,209 - aiogram.event - INFO - Update id=937161196 is handled. Duration 1584 ms by bot id=8067941190
+2026-01-31 13:53:11,036 - aiogram.event - INFO - Update id=937161197 is handled. Duration 1069 ms by bot id=8067941190
+2026-01-31 13:53:12,735 - aiogram.event - INFO - Update id=937161198 is handled. Duration 300 ms by bot id=8067941190
+2026-01-31 13:53:17,243 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 5 success, 0 failed
+2026-01-31 13:53:17,243 - aiogram.event - INFO - Update id=937161199 is handled. Duration 1406 ms by bot id=8067941190
+2026-01-31 13:53:33,661 - aiogram.event - INFO - Update id=937161200 is handled. Duration 451 ms by bot id=8067941190
+2026-01-31 13:53:35,524 - aiogram.event - INFO - Update id=937161201 is handled. Duration 277 ms by bot id=8067941190
+2026-01-31 13:53:45,085 - bot.admin_panel - INFO - Broadcast completed by admin 7955905703: 5 success, 0 failed
+2026-01-31 13:53:45,086 - aiogram.event - INFO - Update id=937161202 is handled. Duration 2115 ms by bot id=8067941190
+2026-01-31 13:54:46,806 - aiogram.event - INFO - Update id=937161203 is handled. Duration 457 ms by bot id=8067941190
+2026-01-31 13:55:08,400 - aiogram.event - INFO - Update id=937161204 is handled. Duration 1361 ms by bot id=8067941190
+2026-01-31 13:55:21,056 - aiogram.event - INFO - Update id=937161205 is handled. Duration 260 ms by bot id=8067941190
+2026-01-31 13:56:40,950 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:56:40,951 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-01-31 13:56:46,270 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:56:46,946 - aiogram.dispatcher - WARNING - Sleep for 1.260397 seconds and try again... (tryings = 1, bot id = 8067941190)
+2026-01-31 13:56:52,726 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:56:52,727 - aiogram.dispatcher - WARNING - Sleep for 1.522171 seconds and try again... (tryings = 2, bot id = 8067941190)
+2026-01-31 13:56:59,177 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:56:59,178 - aiogram.dispatcher - WARNING - Sleep for 1.979976 seconds and try again... (tryings = 3, bot id = 8067941190)
+2026-01-31 13:57:06,998 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:57:06,998 - aiogram.dispatcher - WARNING - Sleep for 2.499812 seconds and try again... (tryings = 4, bot id = 8067941190)
+2026-01-31 13:57:12,645 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:57:12,646 - aiogram.dispatcher - WARNING - Sleep for 3.230496 seconds and try again... (tryings = 5, bot id = 8067941190)
+2026-01-31 13:57:20,133 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:57:20,133 - aiogram.dispatcher - WARNING - Sleep for 4.205696 seconds and try again... (tryings = 6, bot id = 8067941190)
+2026-01-31 13:57:29,610 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:57:29,610 - aiogram.dispatcher - WARNING - Sleep for 5.243024 seconds and try again... (tryings = 7, bot id = 8067941190)
+2026-01-31 13:57:40,096 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:57:40,097 - aiogram.dispatcher - WARNING - Sleep for 5.120571 seconds and try again... (tryings = 8, bot id = 8067941190)
+2026-01-31 13:57:50,436 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:57:50,436 - aiogram.dispatcher - WARNING - Sleep for 5.154849 seconds and try again... (tryings = 9, bot id = 8067941190)
+2026-01-31 13:58:00,765 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:58:00,765 - aiogram.dispatcher - WARNING - Sleep for 5.112133 seconds and try again... (tryings = 10, bot id = 8067941190)
+2026-01-31 13:58:11,101 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:58:11,102 - aiogram.dispatcher - WARNING - Sleep for 5.066888 seconds and try again... (tryings = 11, bot id = 8067941190)
+2026-01-31 13:58:21,387 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:58:21,387 - aiogram.dispatcher - WARNING - Sleep for 5.055424 seconds and try again... (tryings = 12, bot id = 8067941190)
+2026-01-31 13:58:32,054 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:58:32,055 - aiogram.dispatcher - WARNING - Sleep for 5.038838 seconds and try again... (tryings = 13, bot id = 8067941190)
+2026-01-31 13:58:42,264 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:58:42,264 - aiogram.dispatcher - WARNING - Sleep for 5.142320 seconds and try again... (tryings = 14, bot id = 8067941190)
+2026-01-31 13:58:52,485 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-31 13:58:52,486 - aiogram.dispatcher - WARNING - Sleep for 4.990703 seconds and try again... (tryings = 15, bot id = 8067941190)
+2026-02-02 01:35:01,021 - __main__ - INFO - ==================================================
+2026-02-02 01:35:01,022 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-02-02 01:35:01,022 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-02-02 01:35:01,022 - __main__ - INFO - ==================================================
+2026-02-02 01:35:01,023 - aiogram.dispatcher - INFO - Start polling
+2026-02-02 01:35:01,570 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:35:13,380 - aiogram.event - INFO - Update id=937161209 is handled. Duration 557 ms by bot id=8067941190
+2026-02-02 01:35:22,677 - aiogram.event - INFO - Update id=937161210 is handled. Duration 246 ms by bot id=8067941190
+2026-02-02 01:35:24,613 - aiogram.event - INFO - Update id=937161211 is handled. Duration 295 ms by bot id=8067941190
+2026-02-02 01:35:31,457 - aiogram.event - INFO - Update id=937161212 is handled. Duration 4876 ms by bot id=8067941190
+2026-02-02 01:35:41,385 - aiogram.event - INFO - Update id=937161213 is handled. Duration 9083 ms by bot id=8067941190
+2026-02-02 01:35:54,389 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 01:35:55,966 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 01:35:55,969 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 01:35:55,969 - aiogram.event - INFO - Update id=937161214 is handled. Duration 14447 ms by bot id=8067941190
+2026-02-02 01:36:11,342 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 01:36:11,497 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 01:36:11,501 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 01:36:11,501 - aiogram.event - INFO - Update id=937161215 is handled. Duration 1237 ms by bot id=8067941190
+2026-02-02 01:36:48,897 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 01:36:49,161 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 01:36:49,169 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 01:36:49,175 - aiogram.event - INFO - Update id=937161216 is handled. Duration 18345 ms by bot id=8067941190
+2026-02-02 01:43:58,846 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-02 01:43:59,099 - __main__ - INFO - Бот остановлен
+2026-02-02 01:43:59,100 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:43:59,102 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-02-02 01:44:06,144 - __main__ - INFO - ==================================================
+2026-02-02 01:44:06,145 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-02-02 01:44:06,145 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-02-02 01:44:06,146 - __main__ - INFO - ==================================================
+2026-02-02 01:44:06,147 - aiogram.dispatcher - INFO - Start polling
+2026-02-02 01:44:06,590 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:44:13,425 - aiogram.event - INFO - Update id=937161217 is handled. Duration 426 ms by bot id=8067941190
+2026-02-02 01:44:16,627 - aiogram.event - INFO - Update id=937161218 is handled. Duration 413 ms by bot id=8067941190
+2026-02-02 01:44:35,504 - aiogram.event - INFO - Update id=937161219 is handled. Duration 555 ms by bot id=8067941190
+2026-02-02 01:48:57,781 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-02 01:48:58,038 - __main__ - INFO - Бот остановлен
+2026-02-02 01:48:58,039 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:48:58,043 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-02-02 01:49:05,517 - __main__ - INFO - ==================================================
+2026-02-02 01:49:05,518 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-02-02 01:49:05,518 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-02-02 01:49:05,519 - __main__ - INFO - ==================================================
+2026-02-02 01:49:05,520 - aiogram.dispatcher - INFO - Start polling
+2026-02-02 01:49:05,957 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:49:09,002 - aiogram.event - INFO - Update id=937161220 is handled. Duration 489 ms by bot id=8067941190
+2026-02-02 01:49:11,252 - aiogram.event - INFO - Update id=937161221 is handled. Duration 259 ms by bot id=8067941190
+2026-02-02 01:49:24,115 - aiogram.event - INFO - Update id=937161222 is handled. Duration 265 ms by bot id=8067941190
+2026-02-02 01:49:57,328 - aiogram.event - INFO - Update id=937161223 is handled. Duration 463 ms by bot id=8067941190
+2026-02-02 01:49:57,675 - aiogram.event - INFO - Update id=937161224 is handled. Duration 464 ms by bot id=8067941190
+2026-02-02 01:53:09,701 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-02 01:53:09,965 - __main__ - INFO - Бот остановлен
+2026-02-02 01:53:09,966 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:53:09,968 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-02-02 01:53:16,994 - __main__ - INFO - ==================================================
+2026-02-02 01:53:16,995 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-02-02 01:53:16,995 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-02-02 01:53:16,996 - __main__ - INFO - ==================================================
+2026-02-02 01:53:16,996 - aiogram.dispatcher - INFO - Start polling
+2026-02-02 01:53:17,445 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 01:53:17,952 - aiogram.event - INFO - Update id=937161225 is handled. Duration 376 ms by bot id=8067941190
+2026-02-02 01:53:20,657 - aiogram.event - INFO - Update id=937161226 is handled. Duration 258 ms by bot id=8067941190
+2026-02-02 01:53:39,200 - aiogram.event - INFO - Update id=937161227 is handled. Duration 452 ms by bot id=8067941190
+2026-02-02 02:01:54,259 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-02-02 02:01:54,260 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-02-02 02:02:06,717 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8067941190)
+2026-02-02 02:08:47,343 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2026-02-02 02:08:47,344 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-02-02 02:09:32,446 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Указанное сетевое имя более недоступно]
+2026-02-02 02:09:32,446 - aiogram.dispatcher - WARNING - Sleep for 1.295104 seconds and try again... (tryings = 1, bot id = 8067941190)
+2026-02-02 02:09:44,063 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 8067941190)
+2026-02-02 02:10:07,961 - aiogram.event - INFO - Update id=937161228 is not handled. Duration 3 ms by bot id=8067941190
+2026-02-02 02:10:22,245 - aiogram.event - INFO - Update id=937161229 is not handled. Duration 2 ms by bot id=8067941190
+2026-02-02 02:12:26,605 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-02 02:12:26,870 - __main__ - INFO - Бот остановлен
+2026-02-02 02:12:26,871 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 02:12:26,873 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)
+2026-02-02 02:12:34,648 - __main__ - INFO - ==================================================
+2026-02-02 02:12:34,649 - __main__ - INFO - 🎀 Бот Махиро запущен!
+2026-02-02 02:12:34,649 - __main__ - INFO - 🎛 Админ-панель: /admin
+2026-02-02 02:12:34,650 - __main__ - INFO - ==================================================
+2026-02-02 02:12:34,650 - aiogram.dispatcher - INFO - Start polling
+2026-02-02 02:12:35,103 - aiogram.dispatcher - INFO - Run polling for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 02:12:43,398 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:12:43,562 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:12:43,566 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:12:43,566 - aiogram.event - INFO - Update id=937161230 is handled. Duration 5539 ms by bot id=8067941190
+2026-02-02 02:12:56,355 - ai.triggers - INFO - State trigger activated: устал
+2026-02-02 02:12:56,501 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:12:56,505 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-02-02 02:12:56,505 - aiogram.event - INFO - Update id=937161231 is handled. Duration 316 ms by bot id=8067941190
+2026-02-02 02:13:12,191 - aiogram.event - INFO - Update id=937161232 is handled. Duration 334 ms by bot id=8067941190
+2026-02-02 02:13:14,758 - aiogram.event - INFO - Update id=937161233 is handled. Duration 274 ms by bot id=8067941190
+2026-02-02 02:13:16,623 - aiogram.event - INFO - Update id=937161234 is handled. Duration 237 ms by bot id=8067941190
+2026-02-02 02:13:19,189 - aiogram.event - INFO - Update id=937161235 is handled. Duration 239 ms by bot id=8067941190
+2026-02-02 02:13:32,936 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:13:33,096 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:13:33,100 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:13:33,100 - aiogram.event - INFO - Update id=937161236 is handled. Duration 1428 ms by bot id=8067941190
+2026-02-02 02:13:52,247 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:13:52,501 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:13:52,505 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:13:52,505 - aiogram.event - INFO - Update id=937161237 is handled. Duration 2122 ms by bot id=8067941190
+2026-02-02 02:14:03,338 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:14:03,608 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:14:03,611 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:14:03,612 - aiogram.event - INFO - Update id=937161238 is handled. Duration 1692 ms by bot id=8067941190
+2026-02-02 02:15:03,355 - ai.triggers - INFO - Appearance trigger activated: милая
+2026-02-02 02:15:03,827 - media.image_manager - INFO - Отправлена картинка: happy.png
+2026-02-02 02:15:03,840 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:15:03,843 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-02-02 02:15:03,844 - aiogram.event - INFO - Update id=937161239 is handled. Duration 854 ms by bot id=8067941190
+2026-02-02 02:15:15,663 - ai.triggers - INFO - Appearance trigger activated: красивая
+2026-02-02 02:15:15,931 - media.image_manager - INFO - Отправлена картинка: happy.png
+2026-02-02 02:15:15,945 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:15:15,950 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-02-02 02:15:15,950 - aiogram.event - INFO - Update id=937161240 is handled. Duration 414 ms by bot id=8067941190
+2026-02-02 02:15:30,347 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:15:30,802 - media.image_manager - INFO - Отправлена картинка: happy.png
+2026-02-02 02:15:30,815 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:15:30,818 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:15:30,818 - aiogram.event - INFO - Update id=937161241 is handled. Duration 2083 ms by bot id=8067941190
+2026-02-02 02:15:39,160 - ai.triggers - INFO - State trigger activated: устал
+2026-02-02 02:15:39,355 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:15:39,359 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-02-02 02:15:39,359 - aiogram.event - INFO - Update id=937161242 is handled. Duration 393 ms by bot id=8067941190
+2026-02-02 02:15:45,646 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:15:45,795 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:15:45,799 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:15:45,799 - aiogram.event - INFO - Update id=937161243 is handled. Duration 2154 ms by bot id=8067941190
+2026-02-02 02:16:05,828 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:16:05,982 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:16:05,985 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:16:05,985 - aiogram.event - INFO - Update id=937161244 is handled. Duration 1803 ms by bot id=8067941190
+2026-02-02 02:16:20,224 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-02 02:16:20,658 - media.image_manager - INFO - Отправлена картинка: happy.png
+2026-02-02 02:16:20,672 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:16:20,676 - bot.handlers - INFO - Response sent to 7955905703: mood=счастливая, trust=1.00
+2026-02-02 02:16:20,677 - aiogram.event - INFO - Update id=937161245 is handled. Duration 1855 ms by bot id=8067941190
+2026-02-02 02:16:37,649 - memory.mood_system - INFO - Настроение для 7955905703: грустная
+2026-02-02 02:16:37,649 - ai.triggers - INFO - State trigger activated: грустно
+2026-02-02 02:16:37,785 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:16:37,789 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-02-02 02:16:37,789 - aiogram.event - INFO - Update id=937161246 is handled. Duration 494 ms by bot id=8067941190
+2026-02-02 02:16:40,556 - ai.triggers - INFO - State trigger activated: грустно
+2026-02-02 02:16:40,687 - memory.trust_system - INFO - Trust для пользователя 7955905703: 1.00
+2026-02-02 02:16:40,690 - bot.handlers - INFO - Trigger response sent to 7955905703
+2026-02-02 02:16:40,691 - aiogram.event - INFO - Update id=937161247 is handled. Duration 256 ms by bot id=8067941190
+2026-02-02 02:19:48,249 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:19:48,250 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8067941190)
+2026-02-02 02:19:53,584 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:19:53,585 - aiogram.dispatcher - WARNING - Sleep for 1.254183 seconds and try again... (tryings = 1, bot id = 8067941190)
+2026-02-02 02:19:59,394 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:19:59,394 - aiogram.dispatcher - WARNING - Sleep for 1.537224 seconds and try again... (tryings = 2, bot id = 8067941190)
+2026-02-02 02:20:05,905 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:20:05,905 - aiogram.dispatcher - WARNING - Sleep for 1.964970 seconds and try again... (tryings = 3, bot id = 8067941190)
+2026-02-02 02:20:13,502 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:20:13,502 - aiogram.dispatcher - WARNING - Sleep for 2.526037 seconds and try again... (tryings = 4, bot id = 8067941190)
+2026-02-02 02:20:22,358 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:20:22,359 - aiogram.dispatcher - WARNING - Sleep for 3.349025 seconds and try again... (tryings = 5, bot id = 8067941190)
+2026-02-02 02:20:29,849 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:20:29,850 - aiogram.dispatcher - WARNING - Sleep for 4.430075 seconds and try again... (tryings = 6, bot id = 8067941190)
+2026-02-02 02:20:39,521 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:20:39,521 - aiogram.dispatcher - WARNING - Sleep for 5.066332 seconds and try again... (tryings = 7, bot id = 8067941190)
+2026-02-02 02:20:49,850 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:20:49,851 - aiogram.dispatcher - WARNING - Sleep for 5.005643 seconds and try again... (tryings = 8, bot id = 8067941190)
+2026-02-02 02:21:00,211 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:21:00,212 - aiogram.dispatcher - WARNING - Sleep for 4.905137 seconds and try again... (tryings = 9, bot id = 8067941190)
+2026-02-02 02:21:10,395 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:21:10,395 - aiogram.dispatcher - WARNING - Sleep for 5.009947 seconds and try again... (tryings = 10, bot id = 8067941190)
+2026-02-02 02:21:20,543 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:21:20,543 - aiogram.dispatcher - WARNING - Sleep for 5.167927 seconds and try again... (tryings = 11, bot id = 8067941190)
+2026-02-02 02:21:30,946 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:21:30,947 - aiogram.dispatcher - WARNING - Sleep for 4.960499 seconds and try again... (tryings = 12, bot id = 8067941190)
+2026-02-02 02:21:41,155 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:21:41,155 - aiogram.dispatcher - WARNING - Sleep for 5.068434 seconds and try again... (tryings = 13, bot id = 8067941190)
+2026-02-02 02:21:51,432 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:21:51,433 - aiogram.dispatcher - WARNING - Sleep for 5.035073 seconds and try again... (tryings = 14, bot id = 8067941190)
+2026-02-02 02:22:09,890 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:22:09,890 - aiogram.dispatcher - WARNING - Sleep for 4.973042 seconds and try again... (tryings = 15, bot id = 8067941190)
+2026-02-02 02:22:19,118 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:22:19,118 - aiogram.dispatcher - WARNING - Sleep for 4.893073 seconds and try again... (tryings = 16, bot id = 8067941190)
+2026-02-02 02:22:28,583 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:22:28,586 - aiogram.dispatcher - WARNING - Sleep for 5.055482 seconds and try again... (tryings = 17, bot id = 8067941190)
+2026-02-02 02:22:38,494 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:22:38,494 - aiogram.dispatcher - WARNING - Sleep for 5.093490 seconds and try again... (tryings = 18, bot id = 8067941190)
+2026-02-02 02:22:49,033 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:22:49,034 - aiogram.dispatcher - WARNING - Sleep for 4.907821 seconds and try again... (tryings = 19, bot id = 8067941190)
+2026-02-02 02:23:00,028 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:23:00,028 - aiogram.dispatcher - WARNING - Sleep for 4.977261 seconds and try again... (tryings = 20, bot id = 8067941190)
+2026-02-02 02:23:08,849 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:23:08,849 - aiogram.dispatcher - WARNING - Sleep for 5.140362 seconds and try again... (tryings = 21, bot id = 8067941190)
+2026-02-02 02:23:19,164 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:23:19,165 - aiogram.dispatcher - WARNING - Sleep for 5.186164 seconds and try again... (tryings = 22, bot id = 8067941190)
+2026-02-02 02:23:29,671 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:23:29,671 - aiogram.dispatcher - WARNING - Sleep for 5.041065 seconds and try again... (tryings = 23, bot id = 8067941190)
+2026-02-02 02:23:39,841 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:23:39,841 - aiogram.dispatcher - WARNING - Sleep for 4.837067 seconds and try again... (tryings = 24, bot id = 8067941190)
+2026-02-02 02:23:49,982 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:23:49,983 - aiogram.dispatcher - WARNING - Sleep for 5.240339 seconds and try again... (tryings = 25, bot id = 8067941190)
+2026-02-02 02:24:00,409 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:24:00,410 - aiogram.dispatcher - WARNING - Sleep for 5.032930 seconds and try again... (tryings = 26, bot id = 8067941190)
+2026-02-02 02:24:10,567 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:24:10,574 - aiogram.dispatcher - WARNING - Sleep for 5.091321 seconds and try again... (tryings = 27, bot id = 8067941190)
+2026-02-02 02:24:21,100 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:24:21,100 - aiogram.dispatcher - WARNING - Sleep for 4.907319 seconds and try again... (tryings = 28, bot id = 8067941190)
+2026-02-02 02:24:31,107 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:24:31,108 - aiogram.dispatcher - WARNING - Sleep for 5.136598 seconds and try again... (tryings = 29, bot id = 8067941190)
+2026-02-02 02:24:41,579 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:24:41,579 - aiogram.dispatcher - WARNING - Sleep for 4.977461 seconds and try again... (tryings = 30, bot id = 8067941190)
+2026-02-02 02:24:56,654 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:24:56,654 - aiogram.dispatcher - WARNING - Sleep for 4.893675 seconds and try again... (tryings = 31, bot id = 8067941190)
+2026-02-02 02:25:06,154 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:25:06,154 - aiogram.dispatcher - WARNING - Sleep for 5.084754 seconds and try again... (tryings = 32, bot id = 8067941190)
+2026-02-02 02:25:16,265 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:25:16,265 - aiogram.dispatcher - WARNING - Sleep for 4.988749 seconds and try again... (tryings = 33, bot id = 8067941190)
+2026-02-02 02:25:26,774 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:25:26,775 - aiogram.dispatcher - WARNING - Sleep for 5.205359 seconds and try again... (tryings = 34, bot id = 8067941190)
+2026-02-02 02:25:35,228 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:25:35,229 - aiogram.dispatcher - WARNING - Sleep for 5.154993 seconds and try again... (tryings = 35, bot id = 8067941190)
+2026-02-02 02:25:44,619 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:25:44,620 - aiogram.dispatcher - WARNING - Sleep for 4.983135 seconds and try again... (tryings = 36, bot id = 8067941190)
+2026-02-02 02:25:54,848 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:25:54,848 - aiogram.dispatcher - WARNING - Sleep for 4.982388 seconds and try again... (tryings = 37, bot id = 8067941190)
+2026-02-02 02:26:05,269 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-02-02 02:26:05,269 - aiogram.dispatcher - WARNING - Sleep for 4.893612 seconds and try again... (tryings = 38, bot id = 8067941190)
+2026-02-02 02:26:11,203 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-02 02:26:11,460 - __main__ - INFO - Бот остановлен
+2026-02-02 02:26:11,461 - aiogram.dispatcher - INFO - Polling stopped for bot @luck1y_oyama_bot id=8067941190 - 'Махирочка 🍀'
+2026-02-02 02:26:11,462 - __main__ - INFO - Получен сигнал остановки (Ctrl+C)

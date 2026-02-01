@@ -1,0 +1,57 @@
+{
+  "7766141934": {
+    "user_id": 7766141934,
+    "username": "esksap",
+    "first_name": "Кешка",
+    "last_name": null,
+    "first_seen": "2026-01-28T10:56:56.177533",
+    "last_seen": "2026-01-28T14:34:23.826445",
+    "message_count": 2,
+    "successful_messages": 1,
+    "blocked_messages": 1
+  },
+  "7955905703": {
+    "user_id": 7955905703,
+    "username": "utofi",
+    "first_name": "𝐋𝐮𝐜𝐤𝟏𝐲",
+    "last_name": null,
+    "first_seen": "2026-01-28T10:57:00.433724",
+    "last_seen": "2026-02-02T02:16:40.438277",
+    "message_count": 72,
+    "successful_messages": 72,
+    "blocked_messages": 0
+  },
+  "7228311090": {
+    "user_id": 7228311090,
+    "username": "Zerofx_edits",
+    "first_name": "Zerofx",
+    "last_name": null,
+    "first_seen": "2026-01-28T11:00:37.978502",
+    "last_seen": "2026-01-28T23:12:58.037363",
+    "message_count": 39,
+    "successful_messages": 37,
+    "blocked_messages": 2
+  },
+  "8036809872": {
+    "user_id": 8036809872,
+    "username": "Reymi_0",
+    "first_name": "Reymi",
+    "last_name": null,
+    "first_seen": "2026-01-28T21:24:20.809521",
+    "last_seen": "2026-01-28T21:24:40.023658",
+    "message_count": 48,
+    "successful_messages": 1,
+    "blocked_messages": 47
+  },
+  "5144365242": {
+    "user_id": 5144365242,
+    "username": "Sardorize",
+    "first_name": "Sardor",
+    "last_name": "Abdurakhmonov",
+    "first_seen": "2026-01-31T13:45:11.890924",
+    "last_seen": "2026-01-31T13:51:10.694990",
+    "message_count": 7,
+    "successful_messages": 6,
+    "blocked_messages": 1
+  }
+}

@@ -5,9 +5,10 @@ from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage as FSMMemoryStorage
 from pathlib import Path
 
-from config import TELEGRAM_TOKEN
+from config import TELEGRAM_TOKEN, ADMIN_USER_IDS
 from bot.handlers import router as main_router
 from bot.admin_panel import router as admin_router
+from utils.admin_notifications import admin_notifier
 
 # Настройка логирования
 logging.basicConfig(
@@ -32,23 +33,27 @@ async def main():
     if not TELEGRAM_TOKEN:
         logger.error("❌ TELEGRAM_TOKEN не установлен в .env файле!")
         return
-
+    
     # Инициализация FSM хранилища
     storage = FSMMemoryStorage()
-
+    
     # Инициализация бота
     bot = Bot(token=TELEGRAM_TOKEN)
     dp = Dispatcher(storage=storage)
-
+    
+    # Инициализируем систему уведомлений
+    admin_notifier.set_bot(bot)
+    admin_notifier.set_admins(ADMIN_USER_IDS)
+    
     # Регистрация роутеров (ВАЖНО: admin_router ПЕРВЫМ!)
     dp.include_router(admin_router)
     dp.include_router(main_router)
-
+    
     logger.info("=" * 50)
     logger.info("🎀 Бот Махиро запущен!")
     logger.info("🎛 Админ-панель: /admin")
     logger.info("=" * 50)
-
+    
     # Запуск polling
     try:
         await dp.start_polling(bot, allowed_updates=["message", "callback_query"])
