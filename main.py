@@ -10,6 +10,14 @@ from bot.handlers import router as main_router
 from bot.admin_panel import router as admin_router
 from utils.admin_notifications import admin_notifier
 
+# Optional: run FastAPI admin panel alongside the bot
+try:
+    from admin_panel_web import app as admin_app
+    HAVE_ADMIN_WEB = True
+except Exception:
+    admin_app = None
+    HAVE_ADMIN_WEB = False
+
 # Настройка логирования
 logging.basicConfig(
     level=logging.INFO,
@@ -53,11 +61,33 @@ async def main():
     logger.info("🎀 Бот Махиро запущен!")
     logger.info("🎛 Админ-панель: /admin")
     logger.info("=" * 50)
-    
+    # Запуск web admin (uvicorn) если доступно
+    admin_task = None
+    if HAVE_ADMIN_WEB:
+        try:
+            import uvicorn
+
+            async def _run_admin():
+                config = uvicorn.Config(app=admin_app, host="127.0.0.1", port=8000, log_level="info")
+                server = uvicorn.Server(config)
+                await server.serve()
+
+            admin_task = asyncio.create_task(_run_admin())
+            logger.info("Запущен встроенный admin web на http://127.0.0.1:8000 (если установлены зависимости)")
+        except Exception as e:
+            logger.warning(f"Не удалось запустить admin web: {e}")
+
     # Запуск polling
     try:
         await dp.start_polling(bot, allowed_updates=["message", "callback_query"])
     finally:
+        # Останавливаем web-сервер, если он запущен
+        if admin_task:
+            admin_task.cancel()
+            try:
+                await admin_task
+            except asyncio.CancelledError:
+                pass
         await bot.session.close()
         logger.info("Бот остановлен")
 
