@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mahiro Admin Panel</title>
+    <style>
+      body{font-family: Arial, sans-serif; margin:40px}
+      .card{border:1px solid #ddd;padding:16px;border-radius:8px;margin-bottom:12px}
+      .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+      .muted{color:#666}
+    </style>
+  </head>
+  <body>
+    <h1>Mahiro Admin Panel</h1>
+    <p class="muted">Simple dashboard — protected via X-ADMIN-TOKEN header or ?token= in URL</p>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Total donations</h3>
+        <p>{{ total_donations }}</p>
+      </div>
+      <div class="card">
+        <h3>Active donations</h3>
+        <p>{{ active_donations }}</p>
+      </div>
+      <div class="card">
+        <h3>Refunded donations</h3>
+        <p>{{ refunded_donations }}</p>
+      </div>
+      <div class="card">
+        <h3>Total stars donated</h3>
+        <p>{{ total_stars }}</p>
+      </div>
+      <div class="card">
+        <h3>Stars refunded</h3>
+        <p>{{ total_refunded }}</p>
+      </div>
+      <div class="card">
+        <h3>Unique donors</h3>
+        <p>{{ unique_donors }}</p>
+      </div>
+      <div class="card">
+        <h3>Balances entries</h3>
+        <p>{{ balances_count }}</p>
+      </div>
+    </div>
+
+    <hr/>
+    <p>API endpoints:</p>
+    <ul>
+      <li><code>/donations</code> — JSON list of donations</li>
+      <li><code>/balances</code> — JSON balances</li>
+      <li><code>POST /refund/{transaction_id}</code> — refund donation</li>
+    </ul>
+  </body>
+</html>
