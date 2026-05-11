@@ -54,8 +54,23 @@ async def main():
     admin_notifier.set_admins(ADMIN_USER_IDS)
     
     # Регистрация роутеров (ВАЖНО: admin_router ПЕРВЫМ!)
+    from bot.minigames import router as minigames_router
     dp.include_router(admin_router)
+    dp.include_router(minigames_router)
     dp.include_router(main_router)
+    
+    # Настройка команд и меню
+    from aiogram.types import BotCommand, MenuButtonCommands
+    commands = [
+        BotCommand(command="start", description="Начать общение"),
+        BotCommand(command="mood", description="Проверить настроение"),
+        BotCommand(command="stats", description="Твоя статистика"),
+        BotCommand(command="donate", description="Поддержать разработку ⭐"),
+        BotCommand(command="balance", description="Баланс звёзд"),
+        BotCommand(command="help", description="Помощь")
+    ]
+    await bot.set_my_commands(commands)
+    await bot.set_chat_menu_button(menu_button=MenuButtonCommands())
     
     logger.info("=" * 50)
     logger.info("🎀 Бот Махиро запущен!")

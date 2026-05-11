@@ -1,21 +1,13 @@
 from aiogram import Router, F
-from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton, LabeledPrice
+from aiogram.types import Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton, LabeledPrice, PreCheckoutQuery, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import Command
 import logging
 import random
 
-from ai.mistral_client import MistralClient
-from ai.prompts import get_system_prompt
-from ai.context_builder import get_time_of_day, format_history_for_context
-from ai.triggers import TriggerSystem
-from memory.storage import MemoryStorage
-from memory.trust_system import TrustSystem
-from memory.mood_system import MoodSystem, MessageCounter
-from memory.long_term_memory import LongTermMemory
-from media.image_manager import ImageManager
-from utils.statistics import Statistics
-from utils.rate_limiter import RateLimiter
-from utils.user_tracker import UserTracker
+from utils.services import (
+    mistral_client, memory, trust_system, mood_system, message_counter,
+    long_term_memory, image_manager, statistics, rate_limiter, trigger_system, user_tracker
+)
 from utils.admin_notifications import admin_notifier
 from utils.donations import donation_system
 from bot.filters import IsNotBlacklisted, IsAdmin
@@ -25,18 +17,8 @@ logger = logging.getLogger(__name__)
 
 router = Router()
 
-# Инициализация компонентов
-mistral_client = MistralClient()
-memory = MemoryStorage()
-trust_system = TrustSystem()
-mood_system = MoodSystem()
-message_counter = MessageCounter()
-long_term_memory = LongTermMemory()
-image_manager = ImageManager()
-statistics = Statistics()
-rate_limiter = RateLimiter()
-trigger_system = TriggerSystem()
-user_tracker = UserTracker()
+from ai.prompts import get_system_prompt
+from ai.context_builder import get_time_of_day, format_history_for_context
 
 
 @router.message(Command("start"))
@@ -80,10 +62,21 @@ async def cmd_start(message: Message):
     
     await statistics.add_user()
     
+    # Кнопки быстрого доступа
+    keyboard = ReplyKeyboardMarkup(
+        keyboard=[
+            [KeyboardButton(text="/mood"), KeyboardButton(text="/stats")],
+            [KeyboardButton(text="/donate"), KeyboardButton(text="/help")]
+        ],
+        resize_keyboard=True,
+        input_field_placeholder="Напиши что-нибудь..."
+    )
+    
     await message.answer(
         "Э-э… привет? 😳\n"
         "Я Махиро… с кем я разговариваю?\n\n"
-        "(можешь просто написать мне что-нибудь)"
+        "(можешь просто написать мне что-нибудь)",
+        reply_markup=keyboard
     )
 
 
@@ -365,6 +358,12 @@ async def process_successful_payment(message: Message):
     except Exception as e:
         logger.error(f"Payment error: {e}")
         await message.answer("❌ Ошибка")
+
+
+@router.pre_checkout_query(lambda query: True)
+async def process_pre_checkout_query(pre_checkout_query: PreCheckoutQuery):
+    """Одобрение платежа"""
+    await pre_checkout_query.answer(ok=True)
 
 
 @router.callback_query(F.data == "top_donors")

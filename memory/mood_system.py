@@ -138,8 +138,11 @@ class MoodSystem:
         if message_mood:
             final_mood = message_mood
         elif current_mood != "обычное":
-            # Сохраняем текущее настроение, если оно не дефолтное
-            final_mood = current_mood
+            # 20% шанс вернуться к базовому настроению
+            if random.random() < 0.2:
+                final_mood = base_mood
+            else:
+                final_mood = current_mood
         else:
             final_mood = base_mood
 

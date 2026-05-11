@@ -1,6 +1,7 @@
 from mistralai import Mistral
 from typing import List, Dict, Optional
 import logging
+import asyncio
 
 from config import MISTRAL_API_KEY, MISTRAL_MODEL, TEMPERATURE, MAX_TOKENS
 
@@ -41,8 +42,9 @@ class MistralClient:
             # Добавляем новое сообщение пользователя
             messages.append({"role": "user", "content": user_message})
 
-            # Вызываем API
-            response = self.client.chat.complete(
+            # Вызываем API асинхронно
+            response = await asyncio.to_thread(
+                self.client.chat.complete,
                 model=self.model,
                 messages=messages,
                 temperature=TEMPERATURE,

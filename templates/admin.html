@@ -1,57 +1,510 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mahiro Admin Panel</title>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahiro - Панель управления</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-      body{font-family: Arial, sans-serif; margin:40px}
-      .card{border:1px solid #ddd;padding:16px;border-radius:8px;margin-bottom:12px}
-      .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
-      .muted{color:#666}
-    </style>
-  </head>
-  <body>
-    <h1>Mahiro Admin Panel</h1>
-    <p class="muted">Simple dashboard — protected via X-ADMIN-TOKEN header or ?token= in URL</p>
+        :root {
+            --bg: #0f172a;
+            --surface: rgba(30, 41, 59, 0.7);
+            --surface-hover: rgba(51, 65, 85, 0.8);
+            --border: rgba(255, 255, 255, 0.1);
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --primary: #8b5cf6;
+            --primary-hover: #7c3aed;
+            --accent: #ec4899;
+            --success: #10b981;
+            --danger: #ef4444;
+            --glass-blur: blur(12px);
+        }
 
-    <div class="grid">
-      <div class="card">
-        <h3>Total donations</h3>
-        <p>{{ total_donations }}</p>
-      </div>
-      <div class="card">
-        <h3>Active donations</h3>
-        <p>{{ active_donations }}</p>
-      </div>
-      <div class="card">
-        <h3>Refunded donations</h3>
-        <p>{{ refunded_donations }}</p>
-      </div>
-      <div class="card">
-        <h3>Total stars donated</h3>
-        <p>{{ total_stars }}</p>
-      </div>
-      <div class="card">
-        <h3>Stars refunded</h3>
-        <p>{{ total_refunded }}</p>
-      </div>
-      <div class="card">
-        <h3>Unique donors</h3>
-        <p>{{ unique_donors }}</p>
-      </div>
-      <div class="card">
-        <h3>Balances entries</h3>
-        <p>{{ balances_count }}</p>
-      </div>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(139, 92, 246, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(236, 72, 153, 0.15) 0px, transparent 50%);
+            background-attachment: fixed;
+            color: var(--text);
+            min-height: 100vh;
+            display: flex;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 280px;
+            background: var(--surface);
+            backdrop-filter: var(--glass-blur);
+            border-right: 1px solid var(--border);
+            padding: 2rem 1rem;
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            height: 100vh;
+            z-index: 10;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 2.5rem;
+            padding: 0 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .nav-item {
+            padding: 1rem;
+            margin-bottom: 0.5rem;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            color: var(--text-muted);
+            font-weight: 500;
+        }
+
+        .nav-item:hover, .nav-item.active {
+            background: var(--surface-hover);
+            color: var(--text);
+        }
+
+        .nav-item.active {
+            background: rgba(139, 92, 246, 0.2);
+            border: 1px solid rgba(139, 92, 246, 0.3);
+            color: var(--primary);
+        }
+
+        /* Main Content */
+        .main-content {
+            margin-left: 280px;
+            flex: 1;
+            padding: 2rem 3rem;
+            overflow-y: auto;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 3rem;
+        }
+
+        .header h1 {
+            font-weight: 600;
+            font-size: 1.8rem;
+        }
+
+        /* Grid stats */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .stat-card {
+            background: var(--surface);
+            backdrop-filter: var(--glass-blur);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--accent));
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+
+        .stat-card:hover::before {
+            opacity: 1;
+        }
+
+        .stat-icon {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            font-size: 2rem;
+            opacity: 0.1;
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0.5rem 0;
+        }
+
+        .stat-label {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Tables */
+        .data-section {
+            background: var(--surface);
+            backdrop-filter: var(--glass-blur);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            display: none;
+        }
+
+        .data-section.active {
+            display: block;
+            animation: fadeIn 0.4s ease forwards;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        th {
+            color: var(--text-muted);
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr:hover td {
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        /* Utils */
+        .badge {
+            padding: 0.25rem 0.75rem;
+            border-radius: 99px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        .badge-success { background: rgba(16, 185, 129, 0.2); color: var(--success); }
+        .badge-danger { background: rgba(239, 68, 68, 0.2); color: var(--danger); }
+
+        .btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .btn:hover { background: var(--primary-hover); }
+        .btn-sm { padding: 0.25rem 0.75rem; font-size: 0.85rem; }
+        .btn-danger { background: var(--danger); }
+        .btn-danger:hover { background: #dc2626; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        #token-modal {
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.8);
+            backdrop-filter: blur(5px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            display: none;
+        }
+        
+        .modal-content {
+            background: var(--bg);
+            padding: 2rem;
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            width: 400px;
+            text-align: center;
+        }
+
+        .modal-content input {
+            width: 100%;
+            padding: 0.75rem;
+            margin: 1rem 0;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: var(--surface);
+            color: white;
+            outline: none;
+        }
+        .modal-content input:focus {
+            border-color: var(--primary);
+        }
+    </style>
+</head>
+<body>
+
+    <div id="token-modal">
+        <div class="modal-content">
+            <h2>Авторизация</h2>
+            <p class="text-muted" style="margin-top:0.5rem;font-size:0.9rem;">Введите ADMIN_TOKEN</p>
+            <input type="password" id="admin-token-input" placeholder="Токен...">
+            <button class="btn" style="width:100%" onclick="saveToken()">Войти</button>
+        </div>
     </div>
 
-    <hr/>
-    <p>API endpoints:</p>
-    <ul>
-      <li><code>/donations</code> — JSON list of donations</li>
-      <li><code>/balances</code> — JSON balances</li>
-      <li><code>POST /refund/{transaction_id}</code> — refund donation</li>
-    </ul>
-  </body>
+    <aside class="sidebar">
+        <div class="logo">
+            <i class="fa-solid fa-robot"></i> Mahiro Panel
+        </div>
+        
+        <div class="nav-item active" onclick="switchTab('dashboard')">
+            <i class="fa-solid fa-chart-pie"></i> Обзор
+        </div>
+        <div class="nav-item" onclick="switchTab('donations')">
+            <i class="fa-solid fa-star"></i> Донаты (Stars)
+        </div>
+        <div class="nav-item" onclick="switchTab('balances')">
+            <i class="fa-solid fa-wallet"></i> Балансы
+        </div>
+        
+        <div style="flex:1"></div>
+        <div class="nav-item" onclick="logout()" style="color: var(--danger)">
+            <i class="fa-solid fa-right-from-bracket"></i> Выход
+        </div>
+    </aside>
+
+    <main class="main-content">
+        <div class="header">
+            <h1 id="page-title">Обзор системы</h1>
+            <div id="connection-status" style="display:flex;align-items:center;gap:0.5rem;font-size:0.9rem;color:var(--success)">
+                <div style="width:8px;height:8px;background:var(--success);border-radius:50%;box-shadow:0 0 10px var(--success)"></div>
+                Online
+            </div>
+        </div>
+
+        <div id="tab-dashboard" class="data-section active">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <i class="fa-solid fa-money-bill-transfer stat-icon"></i>
+                    <div class="stat-label">Всего донатов</div>
+                    <div class="stat-value">{{ total_donations }}</div>
+                </div>
+                <div class="stat-card">
+                    <i class="fa-solid fa-star stat-icon" style="color:var(--primary)"></i>
+                    <div class="stat-label">Звёзд получено</div>
+                    <div class="stat-value" style="color:var(--primary)">{{ total_stars }}</div>
+                </div>
+                <div class="stat-card">
+                    <i class="fa-solid fa-users stat-icon"></i>
+                    <div class="stat-label">Уникальных донатеров</div>
+                    <div class="stat-value">{{ unique_donors }}</div>
+                </div>
+                <div class="stat-card">
+                    <i class="fa-solid fa-rotate-left stat-icon" style="color:var(--danger)"></i>
+                    <div class="stat-label">Возвратов</div>
+                    <div class="stat-value" style="color:var(--danger)">{{ refunded_donations }}</div>
+                </div>
+            </div>
+        </div>
+
+        <div id="tab-donations" class="data-section">
+            <div class="section-header">
+                <h2>История донатов</h2>
+                <button class="btn btn-sm" onclick="loadDonations()"><i class="fa-solid fa-rotate-right"></i> Обновить</button>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Пользователь</th>
+                        <th>Звёзды</th>
+                        <th>ID Транзакции</th>
+                        <th>Статус</th>
+                        <th>Действия</th>
+                    </tr>
+                </thead>
+                <tbody id="donations-tbody">
+                    <tr><td colspan="5" style="text-align:center">Загрузка...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div id="tab-balances" class="data-section">
+            <div class="section-header">
+                <h2>Балансы пользователей</h2>
+                <button class="btn btn-sm" onclick="loadBalances()"><i class="fa-solid fa-rotate-right"></i> Обновить</button>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>User ID</th>
+                        <th>Баланс (⭐)</th>
+                    </tr>
+                </thead>
+                <tbody id="balances-tbody">
+                    <tr><td colspan="2" style="text-align:center">Загрузка...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <script>
+        let token = localStorage.getItem('admin_token') || new URLSearchParams(window.location.search).get('token');
+        
+        if (!token) {
+            document.getElementById('token-modal').style.display = 'flex';
+        } else {
+            localStorage.setItem('admin_token', token);
+        }
+
+        function saveToken() {
+            token = document.getElementById('admin-token-input').value;
+            localStorage.setItem('admin_token', token);
+            document.getElementById('token-modal').style.display = 'none';
+            window.location.reload();
+        }
+
+        function logout() {
+            localStorage.removeItem('admin_token');
+            window.location.reload();
+        }
+
+        async function fetchAPI(endpoint, options = {}) {
+            options.headers = {
+                ...options.headers,
+                'X-ADMIN-TOKEN': token
+            };
+            const res = await fetch(endpoint, options);
+            if (res.status === 401) {
+                document.getElementById('token-modal').style.display = 'flex';
+                throw new Error("Unauthorized");
+            }
+            return res.json();
+        }
+
+        function switchTab(tabId) {
+            document.querySelectorAll('.data-section').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            
+            document.getElementById('tab-' + tabId).classList.add('active');
+            event.currentTarget.classList.add('active');
+
+            const titles = {
+                'dashboard': 'Обзор системы',
+                'donations': 'Управление донатами',
+                'balances': 'Балансы пользователей'
+            };
+            document.getElementById('page-title').innerText = titles[tabId];
+
+            if (tabId === 'donations') loadDonations();
+            if (tabId === 'balances') loadBalances();
+        }
+
+        async function loadDonations() {
+            try {
+                const data = await fetchAPI('/donations');
+                const tbody = document.getElementById('donations-tbody');
+                tbody.innerHTML = '';
+                
+                if (data.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="5" style="text-align:center">Нет данных</td></tr>';
+                    return;
+                }
+
+                data.reverse().forEach(d => {
+                    const status = d.refunded 
+                        ? '<span class="badge badge-danger">Возврат</span>'
+                        : '<span class="badge badge-success">Успешно</span>';
+                    
+                    const action = d.refunded
+                        ? '-'
+                        : `<button class="btn btn-sm btn-danger" onclick="refund('${d.transaction_id}')">Откат</button>`;
+
+                    tbody.innerHTML += `
+                        <tr>
+                            <td>${d.first_name} (@${d.username || 'нет'})<br><small style="color:var(--text-muted)">${d.user_id}</small></td>
+                            <td style="color:var(--primary);font-weight:bold">${d.stars} ⭐</td>
+                            <td><small>${d.transaction_id}</small></td>
+                            <td>${status}</td>
+                            <td>${action}</td>
+                        </tr>
+                    `;
+                });
+            } catch (e) { console.error(e); }
+        }
+
+        async function loadBalances() {
+            try {
+                const data = await fetchAPI('/balances');
+                const tbody = document.getElementById('balances-tbody');
+                tbody.innerHTML = '';
+                
+                const entries = Object.entries(data);
+                if (entries.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="2" style="text-align:center">Нет данных</td></tr>';
+                    return;
+                }
+
+                entries.sort((a,b) => b[1] - a[1]).forEach(([uid, bal]) => {
+                    tbody.innerHTML += `
+                        <tr>
+                            <td>${uid}</td>
+                            <td style="color:var(--primary);font-weight:bold">${bal} ⭐</td>
+                        </tr>
+                    `;
+                });
+            } catch (e) { console.error(e); }
+        }
+
+        async function refund(txId) {
+            if(!confirm('Откатить этот донат?')) return;
+            try {
+                await fetchAPI('/refund/' + txId, { method: 'POST' });
+                alert('Успешно откачено');
+                loadDonations();
+            } catch(e) { alert('Ошибка: ' + e); }
+        }
+    </script>
+</body>
 </html>

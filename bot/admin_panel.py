@@ -8,24 +8,11 @@ from datetime import datetime
 import logging
 
 from bot.filters import IsAdmin
-from utils.statistics import Statistics
-from utils.user_tracker import UserTracker
-from memory.trust_system import TrustSystem
-from memory.mood_system import MoodSystem
-from memory.storage import MemoryStorage
-from utils.rate_limiter import RateLimiter
+from utils.services import statistics, user_tracker, trust_system, mood_system, memory, rate_limiter
 
 logger = logging.getLogger(__name__)
 
 router = Router()
-
-# Инициализация компонентов
-statistics = Statistics()
-user_tracker = UserTracker()
-trust_system = TrustSystem()
-mood_system = MoodSystem()
-memory = MemoryStorage()
-rate_limiter = RateLimiter()
 
 
 # FSM для добавления/удаления пользователей
