@@ -39,7 +39,7 @@ MAX_FACTS_PER_USER = 50
 # ========== Картинки ==========
 IMAGES_ENABLED = True
 IMAGES_FOLDER = "assets/mahiro"
-IMAGE_SEND_CHANCE = 0.15
+IMAGE_SEND_CHANCE = 1
 
 # ========== Статистика ==========
 ENABLE_STATISTICS = True
